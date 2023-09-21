@@ -1,12 +1,21 @@
 ### DAY 14: SEPTEMBER 21, THURSDAY, 2023 (NESTED DATA STRUCTURE)
 
 ** Today's PROGRESS**:
-OBJECTS - CAN BE HARD CODED or FETCH from a WEB API
+OBJECTS - CAN BE HARD-CODED or FETCH from a WEB API
 CLIENT/SERVER RESPOND
 http 
-- hyper text transfer protocol
--set of rules to transfer data
+- Hypertext transfer protocol
+- set of rules to transfer data
+
+VSC - Thunder Client
+headers (provide metadata and are kind of object)
+accept is the key, and application/JSON is its value
+value pair of an object
+
+Usee the fetch method to retrieved data from API
+
 ** THOUGHTS:**
+API - think of how many requests can we get, there is a limit, and how long does it take to request 
 
 ** CODE FROM SoC Coaches: 
 JS FILE
