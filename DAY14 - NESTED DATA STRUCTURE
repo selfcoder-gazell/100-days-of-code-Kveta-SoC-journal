@@ -29,3 +29,34 @@ async function fetchJoke() {
     console.error(`Text: ${await response.text()}`);
     return;
   }
+ // Use the json method that parses the reponses body as JSON.
+  const data = await response.json();
+​
+  // Log out our parsed data
+  console.log(typeof data, data);
+  alert(data.joke);
+}
+​
+fetchJoke();
+
+HTML FILE
+fetch.html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Testing Fetch</title>
+  </head>
+  <body>
+    <h1>Testing Fetch</h1>
+    <script src="fetchTest.js"></script>
+  </body>
+</html>
+
+Here is the example of using the fetch API to give my app access to jokes from the external API. 
+// Asynchronously retrieves a joke and displays it
+async function getAndDisplayNewJoke() {
+  const joke = await retrieveJoke();
+  displayJoke(joke);
+}
