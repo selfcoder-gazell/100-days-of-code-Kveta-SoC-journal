@@ -1,1 +1,31 @@
+### DAY 14: SEPTEMBER 21, THURSDAY, 2023 (NESTED DATA STRUCTURE)
 
+** Today's PROGRESS**:
+
+** THOUGHTS:**
+
+** CODE FROM SoC Coaches: 
+JS FILE
+fetchTest.js
+// Write a simple function to test the Dad Jokes API
+async function fetchJoke() {
+  console.log("The fetch function works!");
+​
+  // Make a HTTP GET request with the fetch method
+  // HTTP METHOD: GET
+  // Address: https://icanhazdadjoke.com/
+  // Header: Accept: application/json
+​
+  // Declare a variable to store the HTTP response
+  const response = await fetch("https://icanhazdadjoke.com/fake123", {
+    headers: {
+      Accept: "application/json",
+    },
+  });
+​
+  // If the request fails log out an error
+  if (!response.ok) {
+    console.error(`Status: ${response.status}`);
+    console.error(`Text: ${await response.text()}`);
+    return;
+  }
