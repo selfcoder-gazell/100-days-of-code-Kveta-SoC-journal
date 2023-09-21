@@ -91,4 +91,15 @@ function displayJoke(joke) {
 // Waits for the DOM to be fully loaded and then displays an initial joke.
 document.addEventListener("DOMContentLoaded", getAndDisplayNewJoke);
 
+** LINK TO WORK:
+Classroom link for this morning: https://classroom.github.com/a/BBZFWYx3
+Here is the app/workshop: https://classroom.github.com/a/Qp9AvG-m
+Here are the docs for the API: https://icanhazdadjoke.com/api
+
+Helpful resources covering what we've talked about today:
+https://www.youtube.com/watch?v=rivBfgaEyWQ
+https://www.w3schools.com/js/js_api_fetch.asp
+https://javascript.info/fetch
+
+
 
