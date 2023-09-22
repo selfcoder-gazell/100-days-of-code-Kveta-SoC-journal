@@ -1,7 +1,36 @@
 ### DAY 15: SEPTEMBER 22, FRIDAY, 2023 (HACKATHLON - W3 - TEAM 31 - )
 
 ** Today's PROGRESS**:
+Today we had a visitor from BOOTCAMP 2 called Manu Magalhees. 
+Here are some tips from her:
+- pace yourself
+- after dinner  STOP
+- enjoy weekends
+- Learn from each other
+- perseverance is key
+- any job is easier than this boot camp 
+
+Today was our HACKHATLHLON Friday. We were given a task to code a weather app.
+Weather App Hackathon
+Brief
+Welcome to the Weather App Hackathon! Over the past week, you've been diving deeper into JavaScript, learning about the DOM, 
+APIs, and how to make API calls using fetch. It's time to apply what you've learned. Your mission, should you choose to accept it, 
+is to plan, develop, and present a fully functioning weather app in a single day.
 
 ** THOUGHTS:**
 
+This was a challenge (as HACKHATLHLONS always are). With my lovely teammates (Alex/Paul and Luiz) we managed to create an MVP that was functioning as intended with little extra.
+This week I realised the importance of communication - is more than the knowledge of coding. 
+
+Link to our HACKHATHLON can be found here: 
+
 ** LINK TO WORK:
+
+INSTRUCTIONS for our HACKHATHLON:
+https://docs.google.com/document/d/e/2PACX-1vRndY0Un9WBrGuTSromfKHbRykAEGyI6jX036Y15rwkuaQpLUoCSYsJ4ZnuE2wNy8q6wfAeKtyaznGN/pub
+
+https://api.open-meteo.com/v1/forecast?latitude=51.5085&longitude=-0.1257&current_weather=true
+https://uk.linkedin.com/in/manumagalhaes
+
+Here is a nice tutorial on Fetch and query parameters:
+https://rapidapi.com/guides/query-parameters-fetch
