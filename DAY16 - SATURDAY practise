@@ -1,6 +1,40 @@
 ### DAY 16: SEPTEMBER 23, SATURDAY, 2023 ()
+
 ** Today's PROGRESS**:
+
+Recap Task - DOM, Events & APIs
+Strengthen Your Fetching Skills
+As we wrap up another productive week, we want you to reflect on what you’ve learned and continue practising to reinforce and expand your understanding. Delving deeper into the functionalities of the DOM (Document Object Model), managing events, and displaying information from APIs (Application Programming Interfaces) are fundamental steps.
+
+Objectives
+Reinforce Concepts: Engage in exercises that involve fetching and displaying data using JavaScript, honing your skills in handling real-world scenarios.
+Explore New Horizons: Dive into JavaScript scheduling functions like setTimeout and setInterval, and take the first steps in installing Node.js v18, which will prepare you for the upcoming week.
+Guidelines
+
+Time Allocation: Set aside a minimum of 1 hour and 45 minutes this weekend or Monday morning to kickstart this learning journey.
+
+Exercises: Work through the tasks we’ve laid out below in order.
+
+
+Tasks:
+Fetch API workshop: Classroom Link
+Scheduling in JavaScript: Scheduling: set Interval & setTimeout
+Node.js v18 Installation: Node.js Download Page
+Step one: Download Node.js v18 (LTS) for your operating system
+Step two: Confirm the installation was successful by entering the following command in your terminal: node -v
+Step three: The response should look similar to this: v18.17.1
+
+Be sure to approach each task with curiosity and a readiness to learn.
 
 ** THOUGHTS:**
 
 ** LINK TO WORK:
+
+Classroom Link:
+https://github.com/SchoolOfCode/bc15-w3-recap-task-fetch-challenge-selfcoder-gazell
+
+Scheduling in JavaScript:
+https://javascript.info/settimeout-setinterval
+
+Node.js v18 Installation:
+https://nodejs.org/en/download
