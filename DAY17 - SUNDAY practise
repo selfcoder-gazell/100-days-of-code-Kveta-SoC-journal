@@ -1,7 +1,34 @@
 ### DAY 17: SEPTEMBER 24, SUNDAY, 2023 ()
 
 ** Today's PROGRESS**:
+Scheduling: setTimeout and setInterval
+
+We may decide to execute a function not right now, but at a certain time later. That’s called “scheduling a call”.
+
+There are two methods for it:
+
+setTimeout allows us to run a function once after the interval of time.
+setInterval allows us to run a function repeatedly, starting after the interval of time, and then repeating continuously at that interval.
+These methods are not a part of JavaScript specification. But most environments have an internal scheduler and provide these methods. In particular, they are supported in all browsers and Node.js.
+
+THE SYNTAX:
+Set Timeout:
+let timerId = setTimeout(func|code, [delay], [arg1], [arg2], ...)
+-------------------------------
+function sayHi(phrase, who) {
+  alert( phrase + ', ' + who );
+}
+------------------------------------
+setTimeout(sayHi, 1000, "Hello", "John"); // Hello, John
+---------------------------------
+Canceling with clearTimeout
+setInterval
+Nested setTimeout
+Zero delay setTimeout
 
 ** THOUGHTS:**
+It is very useful to have a timer on a function. 
 
 ** LINK TO WORK:
+
+https://javascript.info/settimeout-setinterval
