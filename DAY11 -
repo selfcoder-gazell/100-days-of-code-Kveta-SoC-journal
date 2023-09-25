@@ -1,0 +1,26 @@
+### DAY 11: SEPTEMBER 18, MONDAY, 2023 ()
+
+** Today's PROGRESS**:
+MORNING:
+We had a host Joes - session about mindset, different type of personalities etc. 
+Personalities test to understad better the different types which should help us work better as a team. 
+We were aslo trying to work out what (value) do we bring into a team. 
+----------------------------
+AFTERNOON:
+Introduction into DEBUGGING.
+
+** THOUGHTS:**
+
+** LINK TO WORK:
+https://www.16personalities.com/
+
+Task - morning:
+https://github.com/SchoolOfCode/bc15-w3-d1-workshop-debugging-team31-w3
+
+Some links to explore:
+Prettier (format your code automatically): https://www.youtube.com/watch?v=J-JRwDkDJHc
+HTML validator (get feedback on your HTML): https://marketplace.visualstudio.com/items?itemName=html-validate.vscode-html-validate
+ESLint (get feedback on your JS): https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+Also, worth exploring the Network tab of your browser's developer tools.
+Useful for debugging whether CSS and JS files are linked correctly and debugging requests to server/APIs (which we’ll be doing this week)
+Collection of some bugs: https://github.com/Julian/awesome-bugs
