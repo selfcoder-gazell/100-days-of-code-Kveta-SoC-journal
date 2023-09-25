@@ -2,7 +2,9 @@
 
 ** Today's PROGRESS**:
 MORNING:
-In the morning we tackled a task in GitHub - to make a clock hand move around in regular intervals of 1 second (https://github.com/SchoolOfCode/bc15-w4-d1-workshop-clock-challenge-team29-w4)
+In the morning we tackled a task in GitHub - to make a clock hand move around in regular intervals of 1 second 
+  (https://github.com/SchoolOfCode/bc15-w4-d1-workshop-clock-challenge-team29-w4).
+   
 Today we talked about Node.JS. 
 It is a tool to build own API. 
 
@@ -17,15 +19,30 @@ The advantages of having its own API:
 
 Developing own API gives knowledge to a full-stack developer and it is crucial for future development. 
 
-NODE.JS is an open-source cross-platform. 
-OPEN SOURCE = free to use, share, and modify by anyone. 
-JS is a runtime environment - a program that allows us to run J.S. code on our computers or servers. 
-Event-driven programming. 
+NODE.JS is an open-source cross-platform JavaScript runtime environment. 
+  OPEN SOURCE = type of software that is free to use, share, and modify by anyone. 
+  CROSS PLATFORM = refers to software that can run on different operating systems, such as Windows, Mac, or Linux. 
+JS RUNTIME ENVIRONMENT - a program that allows us to run J.S. code on our computers or servers. 
+
+I/O (Input/Output)
+refers to the communication between a computer and its environment. 
+  
+Event-driven programming:
+A programming paradigm in which the flow of a program is determined by events that occur. 
 
 Java Script Engine - a program or SW that interprets and executes J.S. Code. 
 
-** THOUGHTS:**
+The most popular JavaScript Engines:
+Chrome (V8), Firefox (SpiderMonkey), Edge (Chakra), Safar (JavaScript). 
 
+Node.js vs The Browser
+
+The NODE.JS package manager ======= npm
+
+Node.js MODULE SYSTEM
+
+** THOUGHTS:**
+Today's session about Node.js was informative - filled with lots of information that need time to be applied in real-life scenario. 
 
 CODE EXAMPLES:
 Code example from the session:
