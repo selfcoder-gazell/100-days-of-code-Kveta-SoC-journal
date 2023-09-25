@@ -1,0 +1,82 @@
+### DAY 13: SEPTEMBER 20, WEDNESDAY, 2023 ()
+
+** Today's PROGRESS**:
+Events and DOM challenges. DOM = Document Object Model
+
+** THOUGHTS:**
+
+-------------------------------------------------
+CODE example below:
+// Event handling
+
+// addEventListener
+
+// Select the Element you want to add the event listner to
+const sampleButton = document.getElementById("sampleButton");
+
+// Create a function that displays a message
+function displayMessage(event) {
+  // Log out the event object given to us by the browser
+  console.log(event);
+  alert("This button was clicked!");
+}
+
+// Add an event listener to the button
+sampleButton.addEventListener("click", displayMessage);
+
+--------------------------------------------------
+** LINK TO WORK:
+WORKSHOP DOM EVENTS:
+https://github.com/SchoolOfCode/bc15-w3-d3-workshop-dom-events-challenges-team31-w3
+
+DOM MANIPULATIONS AND EVENTS TUTORIAL:
+https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events
+----------------------------------------------
+LIGHT BULB CHALLENGE - PSEUDOCODE:
+/*
+Learning Objectives:
+  1. Understand and utilize DOM element selection.
+  2. Implement event listeners on buttons.
+  3. Manipulate image attributes dynamically based on user interactions.
+​
+Brief:
+You're provided with two images of a lightbulb: one turned on and one turned off. Your task is to implement the functionality to control the bulb's illumination. Use the 'Turn On' and 'Turn Off' buttons to switch the src attribute of the image tag, effectively lighting up or dimming the bulb.
+​
+Expected Outcomes:
+  1. When the "Turn On" button is clicked, the lightbulb image should change to its 'on' state.
+  2. When the "Turn Off" button is clicked, the lightbulb image should change to its 'off' state.
+  3. The bulb's state should only change when the respective button is clicked.
+*/
+​
+// Place your plan and solution below!
+​
+// Store the two different image file paths as text
+const turnedOnImage = "light-bulb-on.png";
+const turnedOffImage = "light-bulb-off.png";
+​
+// Set up variables that store the elements I need
+const turnOnButton = document.querySelector("#turnBulbOn");
+const turnOffButton = document.querySelector("#turnBulbOff");
+const bulbImage = document.querySelector("#lightbulb");
+​
+// Define a function that turns on the light
+function turnLightOn () {
+  // Set the source of the blub image to point to the turned on version
+  console.log("Light was turned on!");
+  bulbImage.src = turnedOnImage;
+}
+​
+// Define a function that turns off the light
+function turnLightOff () {
+  // Set the source of the bulb image to point to the turned off version
+  console.log("Light was turned off!");
+  bulbImage.src = turnedOffImage;
+}
+​
+// Listen for a click on the Turn On button
+// Call the function that will turn on the light
+turnOnButton.addEventListener("click", turnLightOn);
+​
+// Listen for a click on the Turn off button
+// Call the function that will turn off the light
+turnOffButton.addEventListener("click", turnLightOff);
