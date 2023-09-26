@@ -1,9 +1,16 @@
 TUESDAY 26.9.2.23 
+Today's morning session was about mindset. Another great speech about communication skill and how we can improve.
+---------------------------------
+An afternoon session we spent tackling the task of: 
+Building applications often requires performing a set of fundamental operations. These are commonly referred to as CRUD operations:
 
-
-
-
-
+Create: Add new data.
+Read: Retrieve existing data.
+Update: Modify existing data.
+Delete: Remove data.
+In this workshop, we'll construct a module with helper functions that handle these CRUD operations for an inspirational quotes application. 
+These functions will lay the foundation for future workshops where we'll integrate them into an Express API.
+------------------------------------------
 
 CODE: 
 WRITE.JS:
@@ -53,7 +60,7 @@ async function writeBootcamper(bootcamperObj) {
 ​
 await writeBootcamper(bootcamper);
 await writeBootcamper(bootcamper2);
-
+-------------------
 
 READ.JS
 // Import necessary modules
@@ -71,7 +78,7 @@ async function readAndDisplayBootcampers() {
 ​
 readAndDisplayBootcampers()
 
-
+-------------------------------
 PACKAGE.JSON
 {
   "name": "example",
@@ -89,7 +96,7 @@ PACKAGE.JSON
     "uuid": "^9.0.1"
   }
 }
-
+---------------------------
 LINKS:
 TO OUR WORKSHOP:
 https://github.com/SchoolOfCode/bc15-w4-d2-workshop-crud-functionality-team29-w4
