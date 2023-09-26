@@ -1,0 +1,95 @@
+TUESDAY 26.9.2.23 
+
+
+
+
+
+
+CODE: 
+WRITE.JS:
+// Import necessary modules
+import { v4 as uuidv4 } from "uuid"; // Import UUID generator function
+import fs from "node:fs/promises"; // Import File System module with Promise support
+​
+// Testing out the uuidv4 function
+// console.log(uuidv4());
+// console.log(uuidv4());
+// console.log(uuidv4());
+​
+// Create a bootcamper object
+const bootcamper = {
+  id: uuidv4(),
+  name: "John Doe",
+  age: "33"
+};
+​
+const bootcamper2 = {
+  id: uuidv4(),
+  name: "Jane Doe",
+  age: "29"
+}
+​
+// Define a function that writes a bootcamper object to file
+async function writeBootcamper(bootcamperObj) {
+  // Take in a bootamper
+  // console.log(bootcamperObj);
+​
+  // Read the list of bootcampers from file and store in variable
+  const JSONBootcampersList = await fs.readFile("bootcampers.json");
+  // Convert the JSON data to a JS object/array
+  const bootcampers = JSON.parse(JSONBootcampersList);
+  // Add the new bootcamperObj to the list
+  console.log(bootcampers);
+  bootcampers.push(bootcamperObj);
+​
+  // Write that list of bootcampers to JSON file
+    // Convert the bootcamper data to JSONData
+    const JSONData = JSON.stringify(bootcampers);
+    // use the fs writeFile method to write the JSON data to file
+    await fs.writeFile("bootcampers.json", JSONData);
+  // Return a promise containing the bootcamper 
+  return bootcamperObj;
+}
+​
+await writeBootcamper(bootcamper);
+await writeBootcamper(bootcamper2);
+
+
+READ.JS
+// Import necessary modules
+import fs from "node:fs/promises"; // Import File System module with Promise support
+​
+// Read JSON data from file and display in the console
+async function readAndDisplayBootcampers() {
+  // Use the fs module to read our JSON data
+    const JSONData = await fs.readFile("bootcampers.json");
+  // Convert that JSON data to an object
+  const bootcampers = JSON.parse(JSONData);
+  // Display the object to the console
+  console.log(bootcampers);
+}
+​
+readAndDisplayBootcampers()
+
+
+PACKAGE.JSON
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
+
+LINKS:
+TO OUR WORKSHOP:
+https://github.com/SchoolOfCode/bc15-w4-d2-workshop-crud-functionality-team29-w4
