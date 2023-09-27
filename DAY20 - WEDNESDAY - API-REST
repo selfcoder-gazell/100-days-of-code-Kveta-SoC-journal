@@ -1,0 +1,32 @@
+### DAY 19: SEPTEMBER 26, TUESDAY, 2023 ()
+---------------------------
+TODAY'S PROGRESS: 
+Workshop - Building a REST API
+🎯 Workshop objectives
+
+Build a REST API using Node.js and Express
+Create API endpoints allowing the user to create, read, update and delete a resource
+Use Thunderclient to make HTTP requests to test API endpoints
+
+💼 The brief
+The goal is to build an inspirational quotes app to ensure that words of wisdom are never lost and are easily accessible for future users.
+
+Today, the task is to construct the REST API, which will serve as the backend for the app.
+
+The API will use the quotes.js helper functions previously built in the "crud-functionality" workshop.
+----------------------
+LINKS:
+https://expressjs.com/
+Here is how we want you to format responses: https://github.com/omniti-labs/jsend
+Here's the workshop for this afternoon: https://classroom.github.com/a/COTeZ65R
+
+EXTRA LINKS:
+https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+FROM CHRIS: 
+here’s a quick article I’ve written based on your tasks yesterday to try and help situate the computational thinking we spent the 1st week on. Again, this takes a lifetime of practice to master, but you are already miles ahead of the crowd here. This article tries to show you how to use the system in context, and so will keep deepening your understanding of computational thinking hopefully.
+Feedback is welcome, but hopefully it’s useful.
+The thing we want you to be is calm, confident problem solvers with a system and a plan. That convinces us (and any employers) that when you face a task, even if you don’t complete it in time, we can be confident that given more time (a day, a week, a year) there’s a high probability you would get there.
+The alternative is people who panic, hit and hope, and throw their arms up when facing a challenge. You may stumble across an answer, but if you don’t I don’t have any way of knowing whether given more time you’d ever get there - it’d be random chance, and the odds would never improve.
+https://socnotes.notion.site/Systematic-Thinking-cece6b637bd148ddbe6c45fef0146708?pvs=4
+Systematic Thinking
