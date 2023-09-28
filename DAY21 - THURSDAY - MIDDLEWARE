@@ -1,0 +1,43 @@
+### DAY 21: SEPTEMBER 27, MONDAY, 2023 ()
+
+** Today's PROGRESS**:
+Today we got introduced to mind-blowing middleware functions. 
+We created our own custom middleware function. We used third-party middleware functions. 
+
+
+MORNING:
+
+AFTERNOON:
+Middleware functions have access to request Obj. and response Obj. as well as additional parameters. 
+(req, res, next).
+Introduction to custom middleware, and third-party middleware (express, morgan). 
+
+** THOUGHTS:**
+
+** LINK TO WORK:
+Some resources to look at:
+Different ways to include information in the request: https://www.youtube.com/watch?v=p2rQ88l0wvw
+Crash course on HTTP: https://www.youtube.com/watch?v=iYM2zFP3Zn0
+Designing REST APIs: https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design
+How to use Express.js: https://expressjs.com/
+Useful JSON tool: https://github.com/omniti-labs/jsend
+Identify what you’re getting and what you’re not getting. Then make a list of what you’re not 
+getting and tackle them systematically.
+
+Middleware explained in the Express docs: https://expressjs.com/en/guide/using-middleware.html
+
+For those who want to create a separate frontend to practice using fetch and making requests to your API, 
+you'll need to make use of this (third-party) middleware package: https://www.npmjs.com/package/cors
+Here is a quick explainer: https://www.youtube.com/watch?v=PNtFSVU-YTI
+
+EXTRA LINKS:
+LEARN EXPRESS JS IN 35 minutes
+https://www.youtube.com/watch?v=SccSCuHhOw0
+https://www.youtube.com/watch?v=SccSCuHhOw0&t=905s
+
+------
+A couple of examples in the docs may use arrow functions instead of the standard functions we are used to.
+https://exercism.org/tracks/javascript/concepts/arrow-functions
+------
+
+
