@@ -41,5 +41,7 @@ https://www.npmjs.com/package/morgan
 A couple of examples in the docs may use arrow functions instead of the standard functions we are used to.
 https://exercism.org/tracks/javascript/concepts/arrow-functions
 ------
-
+For those who want to create a separate frontend to practice using fetch and making requests to your API, 
+you'll need to make use of this (third-party) middleware package: https://www.npmjs.com/package/cors
+Here is a quick explainer: https://www.youtube.com/watch?v=PNtFSVU-YTI
 
