@@ -4,8 +4,9 @@
 
 Understanding SQL is fundamental not just for developers, but also for many other roles in tech and business sectors.
 I urge you all to make notes and help each other as we go through SQL Bolt.
+
 After SQL Bolt, exciting activities await. We've got a murder mystery game to solve using SQL, 
-followed by a challenging exercise on Joins and Sub-queries for those seeking an extra challenge.
+followed by a challenging exercise on Joins and Sub-queries (https://pgexercises.com/questions/joins/) for those seeking an extra challenge.
 Remember, grasping the basics well now is crucial for tackling more complex problems later. 
 Let's support each other, share our learnings, and make the most of this journey together.
 
@@ -15,15 +16,24 @@ If you're looking for a different explanation on SQL Joins apart from what's pro
 the videos below that might help. They explain Joins in another way that might resonate with you. 
 
 Feel free to check them out:
-SQL Joins Explained
-SQL Join Examples
 
-MORNING:
-
+SQL Joins Explained - https://www.youtube.com/watch?v=9yeOJ0ZMUYw
+SQL Join Examples - https://www.youtube.com/watch?v=Jh_pvk48jHA
 
 AFTERNOON:
-
+Here's a helpful tool (DB Fiddle) for practicing your PostgreSQL queries. Get instant feedback on your queries, share them easily with others, and correct your mistakes with helpful error indicators. Select Postgres 15 from the database options to align with our learning material.
+I recommend incorporating db-fiddle into your practice routine - Happy fiddling
+https://www.db-fiddle.com/
 
 ** THOUGHTS:**
 
 ** LINK TO WORK:
+https://sqlbolt.com/
+https://www.db-fiddle.com/
+https://mystery.knightlab.com/walkthrough.html
+https://www.notion.so/schoolofcode/Hosted-PostgreSQL-Tasks-ef182655098540ba8b54bbcbb26ae406?pvs=4
+
+https://pgexercises.com/questions/joins/
+
+
+
