@@ -1,0 +1,74 @@
+### DAY 26: OCTOBER 4, WEDNESDAY, 2023 ()
+
+** Today's PROGRESS**:
+This morning's task: 
+https://www.notion.so/schoolofcode/Hosted-PostgreSQL-Tasks-ef182655098540ba8b54bbcbb26ae406?pvs=4
+
+A few tips:
+If you get stuck or mess up creating tables remember, you can always drop them and start again!
+When writing queries, as with any problem break it down and go step by step (incrementally). 
+
+MORNING:
+
+AFTERNOON:
+TASK LINK:
+https://schoolofcode.notion.site/PostgreSQL-Challenges-with-ElephantSQL-b487ba12a2ab490580cdd19b148db795
+
+** THOUGHTS:**
+
+** LINK TO WORK:
+
+
+PACKAGES USED IN DEMO BELOW:
+https://node-postgres.com/
+https://www.npmjs.com/package/dotenv
+
+CODE:
+package.json
+
+{
+  "name": "pg-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node -r dotenv/config test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.11.3"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
+----------------------
+test.js
+
+// Import the pg package
+import pg from "pg";
+​
+// Get the connection string
+const connectionString = process.env.DB_CONNECTION_STRING;
+​
+// Create a new pool instance
+const pool = new pg.Pool({
+  // Remember to pass in your connection details
+  connectionString
+});
+​
+// Send a query - SELECT * FROM books;
+const data = await pool.query("SELECT * FROM authors;");
+const rows = data.rows;
+console.log(rows);
+​
+// Close the connection
+await pool.end();
+----------------------
+.env
+
+DB_CONNECTION_STRING="Your connection string from ElephantSQL goes here!"
+---------------------
