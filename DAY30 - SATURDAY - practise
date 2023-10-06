@@ -11,3 +11,62 @@ MORNING:
 
 
 ** LINK TO WORK:
+HOMEWORK OVER THE WEEKEND OR MONDAY MORNING:
+https://schoolofcode.notion.site/MVC-Express-Router-49aab57e04af4293b5bc241770378bbb
+
+# MVC & Express Router
+
+In this example, I’ve adopted the Model-View-Controller (MVC) 
+architectural pattern and 
+utilized Express Router to structure the code.
+
+### 1️⃣ ****Model-View-Controller (MVC)****
+
+MVC is a design pattern used to decouple user interface (view), data (model), and application logic (controller). 
+This separation provides a systematic way to build and manage complex applications. Here are the benefits:
+
+- **Separation of Concerns (SoC):** By separating the core functionalities into three interconnected components, 
+we ensure a single responsibility principle where each component handles a specific aspect of the application.
+- **Modularity:** The MVC pattern promotes modularity, which can simplify the development process, especially in a team setting. 
+Different developers can work on the Model, View, and Controller components in parallel without affecting the work of others.
+- **Easier Debugging and Testing:** With a separation of concerns, locating bugs or implementing tests becomes more straightforward 
+as each part has its distinct behavior.
+- **Scalability:** As the application grows, having a well-defined structure like MVC can make scaling more manageable and less prone to bugs.
+
+In my example project:
+
+- **Models (`authorsModel.js` and `booksModel.js`):** These files interact with the database, handling the data logically.
+- **Controllers (`authorsController.js` and `booksController.js`):** These files handle the business logic, interacting 
+with the models to process the data needed for the client.
+- **Views:** In this Express API project, the traditional "view" component is represented by the JSON responses our 
+API sends to the client. While not a view in the typical sense, these responses are what the client side will interact with, 
+serving as the user interface in a client-server architecture.
+
+### 2️⃣ ****Express Router****
+
+Express Router is a part of the Express.js library that allows us to create more modular, flexible, 
+and scalable route handlers. Here are the benefits:
+
+- **Modular Code:** We can keep our code organized by separating routes into different files. 
+Each routing file can focus on a specific part of the application, making the codebase easier to understand and maintain.
+- **Cleaner `app.js` File:** With Express Router, the main **`app.js`** file becomes much cleaner 
+and easier to read as the bulk of the route-handling logic is moved into separate files.
+- **Easier Debugging:** Having a structured routing system makes debugging easier. If there's an 
+issue with a specific route, it's clear where to look to debug the problem.
+- **Scalability:** As the application grows, it's easier to manage when routes are organized in a structured manner.
+
+In my example project:
+
+- **Routes (`authorsRoutes.js` and `booksRoutes.js`):** These files define the routes for the authors and 
+book entities and import the necessary controllers to handle the logic for each route.
+
+### 3️⃣ ****Try it for yourself****
+
+Once you’ve finished today’s task, I encourage you to look at my example on [https://github.com/SchoolOfCode/example-mvc-api]
+
+[**GitHub**](https://github.com/SchoolOfCode/example-mvc-api) 
+
+and give the folder/file structure a go 
+for one of your projects. (Convert an existing project or build it from scratch.) Try to understand the different folders, 
+imports, and exports. 
+Reflect on the rationale behind organizing the code in this manner.
