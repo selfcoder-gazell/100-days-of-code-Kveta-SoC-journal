@@ -1,7 +1,20 @@
 ### DAY 31: OCTOBER 9, MONDAY, 2023 ()
 
 ** Today's PROGRESS**:
-
+Here’s the classroom link: https://classroom.github.com/a/shTyJjCA
+You have 15 minutes as a group to:
+Initialise a Node.js project (npm init -y)
+Use https://vitest.dev/guide/#getting-started to install Vitest as a dev dependency
+Use https://vitest.dev/guide/#command-line-interface to run your tests using Vitest
+At this stage, you’ll likely see a message in the terminal saying “No test files found”
+Create a file named index.test.js
+Run your tests again using Vitest
+At this stage, you’ll likely see a message in the terminal saying “No test suite found in file”
+Use https://vitest.dev/guide/#writing-tests to:
+Import the test function from the Vitest package
+Create a test (by calling the test function) and give it the bare minimum (a test name and an empty callback function) to register a passing test.
+Run your test again using Vitest
+At this stage you should see the test pass in the terminal
 
 MORNING:
 
@@ -11,3 +24,10 @@ MORNING:
 
 
 ** LINK TO WORK:
+
+https://github.com/SchoolOfCode/bc15-w6-d1-workshop-unit-testing-team23-week-6
+
+https://classroom.github.com/a/shTyJjCA
+https://vitest.dev/guide/#getting-started
+https://vitest.dev/guide/#command-line-interface
+https://vitest.dev/guide/#writing-tests
