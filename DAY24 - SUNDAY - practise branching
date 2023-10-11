@@ -11,3 +11,17 @@ AFTERNOON:
 ** THOUGHTS:**
 
 ** LINK TO WORK:
+
+One of my boot camper colleagues created this:
+I've made this deck of flashcards to help with cementing the Express.js knowledge - I hope it can be helpful. 
+It's also available on Anki, which is great spaced repetition software to get extra studying in when doing other things 
+(especially if you download the iOS app, but they also have desktop software) - there's a link in the repo. 
+I've double-checked everything, so hopefully, there aren't errors, however, if there's anything you feel needs to be 
+changed or if you would like to add anything, please feel free to submit a pull request. I will be updating the repo and 
+Anki deck next week with more for our SQL content (unfortunately Anki doesn't automatically update decks, so it has to be manually 
+re-downloaded to get updates). Good luck to everyone for next week!  
+
+https://github.com/calwoodford/anki_decks/blob/main/expressjs/expressjs.md
+
+
+
