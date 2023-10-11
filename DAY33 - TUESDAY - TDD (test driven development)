@@ -1,8 +1,11 @@
 ### DAY 31: OCTOBER 10, TUESDAY, 2023 ()
 
 ** Today's PROGRESS**:
-Test driven development (TDD)
-Test driven development means writing tests first, before writing code. The tests define what the code should do. Then you write code to pass the tests. Writing tests first helps you think through what the code needs to do. It also helps make sure the code stays organised and easy to change later. We'll use Vitest to write and run tests easily.
+Test-driven development (TDD)
+Test-driven development means writing tests first, before writing code. The tests define what the code should do. 
+Then you write code to pass the tests. Writing tests first helps you think through what the code needs to do. 
+It also helps ensure the code stays organized and is easy to change later. 
+We'll use Vitest to write and run tests easily.
 
 💡 OBJECTIVES FOR THE WORKSHOP
 This workshop is all about TDD! Here's a glimpse of what you'll be achieving by the end of this workshop:
@@ -18,3 +21,7 @@ MORNING:
 
 ** LINK TO WORK:
 https://github.com/SchoolOfCode/bc15-w6-d2-workshop-test-driven-development-team23-week-6
+
+If you want to use test.each, this video might be a good starting point: 
+https://www.youtube.com/watch?v=0xozYnrS0_c
+The video covers Jest (not Vitest), but the concepts and approach should be very similar.
