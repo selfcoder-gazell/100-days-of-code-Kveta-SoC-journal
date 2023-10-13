@@ -15,7 +15,7 @@ MORNING:
 https://www.npmjs.com/package/supertest:
 
 API testing
-As the information served by an API becomes critical and other software comes to rely on it, developers need confidence that the API works as expected (and doesn't for example fail to respond or respond with missing or incorrect data).
+As the information served by an API becomes critical and other software comes to rely oN it, developers need confidence that the API works as expected (and doesn't for example fail to respond or respond with missing or incorrect data).
 
 💡 OBJECTIVES FOR THE WORKSHOP
 Here's a glimpse of what you'll be achieving by the end of this workshop:
