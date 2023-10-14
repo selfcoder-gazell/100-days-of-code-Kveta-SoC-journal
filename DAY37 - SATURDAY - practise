@@ -1,13 +1,54 @@
 ### DAY 37: OCTOBER 14, SATURDAY, 2023 ()
 
 ** Today's PROGRESS**:
-
+Today I have been practicing two JavaScript exercises on www.exercism.org website.
+One was about boolean and the other was about the concept of Strings. 
 
 MORNING:
+Here are my solutions:
 
-
+https://exercism.org/tracks/javascript/exercises/poetry-club-door-policy/solutions/selfcoder-gazell
+https://exercism.org/tracks/javascript/exercises/annalyns-infiltration/solutions/selfcoder-gazell
 
 ** THOUGHTS:**
 
 
 ** LINK TO WORK:
+------------------------------
+export function canExecuteFastAttack(knightIsAwake) {
+  if (knightIsAwake){
+  return false;
+  } else {
+    return true;
+    }
+  }
+---------------------------
+export function canSpy(knightIsAwake, archerIsAwake, prisonerIsAwake) {
+  if (knightIsAwake || archerIsAwake || prisonerIsAwake) {
+    return true;
+  } else {
+    return false;
+  }
+}
+--------------------
+export function canSignalPrisoner(archerIsAwake, prisonerIsAwake) {
+  if (!archerIsAwake && prisonerIsAwake) {
+    return true;
+  } else {
+    return false;
+  }
+}
+----------------
+export function canFreePrisoner( 
+  knightIsAwake,
+  archerIsAwake,
+  prisonerIsAwake,
+  petDogIsPresent,
+ ) {
+  if (!archerIsAwake && petDogIsPresent || prisonerIsAwake && !knightIsAwake && !archerIsAwake){
+    return true;
+  } else {
+    return false;
+  }
+}
+  
