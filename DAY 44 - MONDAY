@@ -1,0 +1,124 @@
+### DAY 44: OCTOBER 13, MONDAY, 2023 ()
+
+** Today's PROGRESS**:
+Today we started working on our mid-term project (see below for details). We were put in a team of six (Alex, David, Faizan, Patryk, Siyun). 
+
+
+Today :
+1. practice 10 seconds intro
+2. deciding on our team Manifesto
+3. chosen our team name - SINISTER SEVEN (our team number was seven) and including my dog it was 7 in our team
+4. brainstorming first
+5. narrow down the brainstorm to a set of questions for our questionnaire for 
+research among us boot campers to find out which idea would be most beneficial for us 
+6. We analyze the survey results and make a decision based on the doting system we decided to 
+go for an app to give us alerts/reminders as to what we should revise and when. 
+7. Then we created two personas (Samantha and Simon). 
+8. We then used the (dreamer, realist, critic) Dysney approach to make further 
+decisions about what our app should do - features it should have, etc. 
+9. 
+
+
+THE PROBLEM WE ARE SOLVING HERE IS BOOT CAMPERS NOT BEING ABLE TO RETAIN INFORMATION DUE TO THE LUCK OF SPACED REPETITION. 
+
+
+THE PRODUCT IS:
+A mobile app that will allow users to add topics to study which can be added to a list 
+which will set reminders for the user to revise based on spaced repetition
+
+MORNING:
+
+
+
+** THOUGHTS:**
+
+
+** LINK TO WORK:
+https://docs.google.com/document/d/1fSEDpNw2PxElOsON4_VBYwVtsyjV8BnIff9mID1rAkI/edit
+
+https://www.figma.com/figjam/
+https://www.mural.co/
+https://miro.com/
+
+TODAYS'S PROJECT:
+Week 8 Project Guidelines
+
+The Application (Deliverable 1)
+
+We want to see a full-stack application you’ve designed and built to solve a problem - we’d 
+like this to include a front-end application (HTML, CSS, JS) that calls out to a backend application 
+(Node.js). Your front end should send data to or fetch data from the backend in order to perform its function. 
+The application should have some tests.
+
+The Presentation/Demo (Deliverable 2)
+
+We want to see you present/demo your work. The presentation/demo will cover your process 
+(UX process through to build) and the working application itself.
+
+We will give you a specific presentation guide that tells you exactly what you should cover, 
+it will also give you an idea of the demo order (problem first, then solution, then process).
+
+Tip: practice makes perfect, record yourselves doing it and time it. Then review the recording, 
+make changes, and repeat until it’s smooth. Watch some previous presentations for inspiration.
+
+Approaching the Project
+--------------------------------
+Problem / Ideation / Planning (in that order!)
+
+Do not go straight to talking about ideas you could build. Resist the urge. 
+Instead, start by empathizing with the user and their problems (Bootcamp). 
+Sit down as a group and brainstorm problems you’ve experienced.
+Then dot vote on which problem to choose as your focus.
+Then move on to Disney Ideation to work through possible solutions.
+The problem should be solved before you start coding. Use day 1 to work out 
+who you are solving the problem for, what the problem is, what solution you will pursue, and plan your work.
+Tools you could use:
+FigJam
+Mural
+Miro
+
+-----------------
+Design Time (Inspiration & Tools)
+
+Come up with a design/brand that is unique. There are lots of tools to help you do this quite quickly.
+Tools and inspiration:
+https://www.awwwards.com/
+Awards - A great site showing high-quality websites/apps
+
+https://dribbble.com/
+Dribbble - A great site showing high-quality websites/apps
+
+https://coolors.co/
+Coolors - Generate color palette ideas.
+
+https://www.midjourney.com/
+Midjourney - AI prompt to turn your ideas into fresh takes (take inspiration from sources mentioned above). 
+There are lots of other AI tools for brand and design generation.
+------------------------
+Planning
+
+Plan your MVP. Create a list of features and functionality you’d like to build to solve the user's problem. 
+Then prioritise and limit scope to make the build achievable - you only have 2 days to build this. You can 
+always plan an extra feature as a “stretch goal”.
+Create User Stories that describe each top-level feature from a User’s point of view. Here’s a great article 
+on writing good User Stories 
+https://medium.com/@george_wilde/a-guide-to-writing-effective-user-stories-658823dec2e0
+
+
+Take those User Stories and create Tasks under them. Think about what is needed for the front end and back 
+end for that feature (User Story) to work - these are your tasks.
+Use Trello or some other project management board software to write up User Stories and Tasks.
+
+-------------------------------
+General Tips
+
+Focus on getting one whole feature complete before moving to the next. Do not fall into the temptation 
+of having lots of open work tickets - focus on completeness. A key thing in Agile is limiting “Work In Progress”. 
+It’s better to have one feature completed well rather than two or three half done.
+Communication is key
+Keeping in sync with each other is vital; stand-ups are a great way to do this. 
+There is no limit on when stand-ups should be, that's down to you as a team... many 
+teams do a couple a day to check in quickly with each other.
+Being clear about who is doing what is helpful when working across a team.
+As you build and progress through your tickets, keep checking the plan and keeping it up 
+to date so everyone stays on the same page throughout.
