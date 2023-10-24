@@ -1,6 +1,146 @@
+### DAY 45: OCTOBER, TUESDAY, 2023 ()
 
+** Today's PROGRESS**:
+Today we have been finishing the planning stage for our midterm project. 
 
 10. On Tuesday we finish the Disney Aviation. 
 11. Fidelity Wireframe to decide what our product should look like
-12. We will then move onto user stories - from the users' point of view.
+12. We will then move on to user stories - from the users' point of view.
 13. Lastly we will write up tasks under the user stories. 
+
+
+MORNING:
+GIT HUB LINKS TO OUR EMPTY REPOSITORIES:
+https://classroom.github.com/assignment-invitations/9702e455cf3fcbd1e3e57ffb659ef711/status
+
+One for back end one for front end
+https://classroom.github.com/assignment-invitations/65c145b61334f160f538cfa1b5dc7889/status
+
+
+AFTERNOON:
+We have decided on which team we shall be working in (A, B, or C) randomly chosen by a wheel. picker. 
+Tomorrow I shall be working with David. 
+
+** THOUGHTS:**
+It feel as it is going to be a challenge to create an app within two days only. 
+---------------------------
+** LINK TO WORK:
+Link to our FIGMA design of the APP we creating tomorrow:
+https://www.figma.com/file/jHjGY3H80tYQamLDhMBYjy/Sinister7_UX?type=design&node-id=0-1&mode=design
+-------------------------------
+the colors for our App were chosen using this link:
+https://coolors.co/a06ec4-cba9ef-ebe0f5-f8b5d2-e378a8
+---------------------
+Gret link from David for downloading images.
+https://unsplash.com/s/photos/studying?orientation=portrait
+500+ Studying Pictures [HD] | Download Free Images on Unsplash
+Download the perfect studying pictures. Find over 100+ of the best free studying images. 
+Free for commercial use ✓ No attribution required ✓ Copyright-free ✓ (100 kB)
+-----------------------
+PROJECT BRIEF
+https://docs.google.com/document/d/1kMptli9NTKbJs-ywxTvvhf7f9Hlxstb2Fwly3v2b7do/edit
+
+Week 8 Project Brief
+
+Objective
+To develop a full stack (front and back end) application that addresses a specific problem faced 
+by bootcampers. Your goal is to improve the overall experience of your fellow bootcampers, 
+focusing on things like remote learning, knowledge retention, or collaboration. 
+
+Problem Statement
+Identify a problem or challenge that bootcampers face during their learning journey. 
+Conduct user research to understand their needs and pain points. Use UX principles and Design 
+Thinking to develop a solution that addresses the identified problem effectively.
+
+Project Outline
+Get to know your teammates, brainstorm to find problems you’ve experienced as bootcampers. 
+Dot vote or use another method to decide which problem to choose.
+Conduct User Research and Competitor Research: discover more about the problem, the users 
+and existing solutions out there already.
+Refine your problem statement and come up with two UX User Personas.
+Use Disney Ideation to ideate and settle on a solution to the problem.
+Map out your minimum viable product features (MVP).
+Design some wireframes and connect them together into a prototype to test them.
+Design the finished UI.
+Write some User Stories to describe the features from the users’ point of view.
+Write up your Tasks under those User Stories.
+Build your MVP as a working application - don’t forget to take your time and plan your code, 
+plan your database schema (ERD) and write some tests.
+Prepare a final presentation / demo showcasing your team's work.
+
+Recommended Timeline
+
+Monday: You should complete the first three points (1 - 3) on the Project Outline. 
+Problem discovery, research, problem refinement and personas.
+
+Tuesday: You should complete the next six points (4 - 9) on the Project Outline. 
+Solution Discovery, MVP definition, Wireframes/Design and User Stories.
+ 
+Wednesday and Thursday: You should complete the next point (10) on the Project Outline. 
+Turn the wireframes into a final design (UI) and build the application. 
+
+Friday: You should complete the next point (9) on the Project Outline. 
+Any final changes to the application in the morning then create the presentation / demo. 
+Leave a couple of hours free to practise (the more the better) and deliver the final presentation.
+
+Deliverables
+A built and working application with tests.
+A presentation that talks about the problem, the solution and the process of 
+how you got there (big highlight on teamwork).
+-----------------------------------------
+
+RECAP for our Project Guidelines
+https://docs.google.com/document/d/1fSEDpNw2PxElOsON4_VBYwVtsyjV8BnIff9mID1rAkI/edit
+Week 8 Project Guidelines
+
+The Application (Deliverable 1)
+
+We want to see a full stack application you’ve designed and built to solve a problem - we’d like this to include a front end application (HTML, CSS, JS) that calls out to a backend application (Node.js). Your front end should send data to or fetch data from the backend in order to perform its function. The application should have some tests.
+
+The Presentation/Demo (Deliverable 2)
+
+We want to see you present / demo your work. The presentation / demo will cover your process (UX process through to build) and the working application itself.
+
+We will give you a specific presentation guide that tells you exactly what you should cover, it will also give you an idea of demo order (problem first, then solution, then process).
+
+Tip: practice makes perfect, record yourselves doing it and time it. Then review the recording, make changes, and repeat until it’s smooth. Watch some previous presentations for inspiration.
+
+Approaching the Project
+
+Problem / Ideation / Planning (in that order!)
+
+Do not go straight to talking about ideas you could build. Resist the urge. Instead, start by empathising with the user and their problems (Bootcamper). Sit down as a group and brainstorm problems you’ve experienced.
+Then dot vote on which problem to choose as your focus.
+Then move on to Disney Ideation to work through possible solutions.
+The problem should be solved before you start coding. Use day 1 to work out who you are solving the problem for, what the problem is, what solution you will pursue, and plan your work.
+Tools you could use:
+FigJam
+Mural
+Miro
+
+Design Time (Inspiration & Tools)
+
+Come up with a design / brand that is unique. There are lots of tools to help you do this quite quickly.
+Tools and inspiration:
+Awwwards - A great site showing high-quality websites/apps
+Dribbble - A great site showing high-quality websites/apps
+Coolors - Generate color palette ideas.
+Midjourney - AI prompt to turn your ideas into fresh takes (take inspiration from sources mentioned above). There are lots of other AI tools for brand and design generation.
+
+Planning
+
+Plan your MVP. Create a list of features and functionality you’d like to build to solve the users problem. Then prioritise and limit scope to make the build achievable - you only have 2 days to build this. You can always plan an extra feature as a “stretch goal”.
+Create User Stories that describe each top level feature from a User’s point of view. Here’s a great article on writing good User Stories https://medium.com/@george_wilde/a-guide-to-writing-effective-user-stories-658823dec2e0
+Take those User Stories and create Tasks under them. Think about what is needed for the front end and back end for that feature (User Story) to work - these are your tasks.
+Use Trello or some other project management board software to write up User Stories and Tasks.
+
+
+General Tips
+
+Focus on getting one whole feature complete before moving to the next. Do not fall into the temptation of having lots of open work tickets - focus on completeness. A key thing in Agile is limiting “Work In Progress”. It’s better to have one feature completed well rather than two or three half done.
+Communication is key
+Keeping in sync with each other is vital; stand-ups are a great way to do this. There is no limit on when stand-ups should be, that's down to you as a team... many teams do a couple a day to check in quickly with each other.
+Being clear about who is doing what is helpful when working across a team.
+As you build and progress through your tickets, keep checking the plan and keeping it up to date so everyone stays on the same page throughout.
+
+
