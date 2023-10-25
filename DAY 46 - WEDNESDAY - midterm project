@@ -2,6 +2,21 @@
 
 ** Today's PROGRESS**:
 
+Today we continued our mid-term project. We split into teams of two. Two teams were working on 
+the back end while one was working on the front end. We remained in the 
+same team throughout the day but we swapped from back to front etc. 
+We completed the back end quicker than expected so in the afternoon we all worked on different parts of the front end.
+One team was working on the footer while the other team worked on the main part of our app/page. 
+We also wrote some tests to test the code we wrote ( tests we wrote included POST, GET, and DELETE - some of the CRUD functions). 
+While working in pairs, one person wrote the code while the other person was leading/typing. 
+We were using the Milestones we set in the GIT HUB yesterday to monitor our progress. 
+
+Throughout the day we were continuously collaborating - visiting each other's mini-teams 
+(rooms) and reassuring that we were on the track and asking if anyone needed help. 
+
+WE also came across some issues along the way. One of the main issues was merging our branches. 
+Which we solve together as a team. 
+
 MORNING: 
 
 AFTERNOON:
@@ -9,5 +24,16 @@ AFTERNOON:
 LINKS:
 recommendation from Alex - felow bootcamper
 https://www.freecodecamp.org/news/the-css-flexbox-handbook/
+
+FIGMA flow chart BACKEND from David - fellow bootcamper:
+https://www.figma.com/file/43gdbiV5zKHZE414QEUHD9/App-Backend-Layout?type=whiteboard&node-id=0-1&t=4b2NCMqWq0yXe0tT-0
+
+OUR DATABASE:
+postgres://udvjqyoc:vWz5gIDR0FiDIAXK1_oR53xrXp2XyhkU@surus.db.elephantsql.com/udvjqyoc
+
+How to make a drop-down menu from Siuy. 
+https://www.youtube.com/watch?v=ybXulmeilFM
+LINK TO THE REPO WITH THE DROP DOWN MENU USED:
+https://github.com/siyuduan2023/bc15-w7-hackathon-ux-ui-team-cats-20
 
 THE SYNTAX:
