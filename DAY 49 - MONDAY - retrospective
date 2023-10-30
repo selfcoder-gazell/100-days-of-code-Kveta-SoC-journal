@@ -11,6 +11,9 @@ what could we improve?
 
 ** THOUGHTS:**
 
+AFTERNOON: 
+We recorded ourselves doing the presentation from last week. 
+In the afternoon we were given Learning Audit to go through. 
 
 ** LINK TO WORK:
 https://schoolofcode.notion.site/Bootcamp-15-Project-Week-Retro-Guide-Shared-9caa31e7b20646c0b4f3cd2ca23fea7f
@@ -54,3 +57,74 @@ https://schoolofcode.notion.site/Bootcamp-15-Project-Week-Retro-Guide-Shared-9ca
         - 7 - 9
         - 10 - 12
         - 13 - 15
+
+https://docs.google.com/document/d/e/2PACX-1vTtz7kTlLHzspQ3WfiGlnOfId8L1xfmoYYtneImxFi-zhrYdwheccIQL64kZwc6l91WQNeWEjpAP4Lq/pub
+Week 09 Learning Audit (A Deep Dive into Your Progress)
+Congratulations on hitting the Week 9 milestone in your School of Code journey! You've made remarkable strides, applying what you've learned in last week's midpoint projects.
+
+
+However, as we all know, learning is a continuous process. As we're about to pivot into more advanced topics like React, Authentication, 
+TypeScript, etc, now is the perfect time to pause and reflect on your learning experience thus far. You'll conduct a Learning Audit to help 
+you understand where you stand and how to move forward effectively.
+
+Objectives
+Self-Assessment - Assign confidence ratings to each topic you've learned.
+Prioritisation - Create a priority list based on these ratings.
+Action Planning - Formulate a step-by-step plan to tackle your highest priority areas.
+Self-Assessment and Reflection
+Step 1 - Topic List Review
+Begin by revisiting the curriculum from Week 1 through Week 7. This recap is a helpful refresher on the wide range of skills you've encountered. 
+Note that the list below is a baseline; feel free to customise it by adding or modifying topics to match your experience. Going back over old 
+workshops and resources and getting even more specific will help.
+
+
+Week 01: Computational Thinking, Agile, AI Tools, VSCode Shortcuts, Terminal Commands, Git, GitHub, HTML, CSS
+Week 02: JavaScript Fundamentals, Loops, Functions, Scope, Arrays, Objects, Array Methods, Callbacks, Debugging.
+Week 03: DOM Manipulation, Event Handling, HTTP, APIs, JSON, Promises, Async/Await, Fetch API, Error Handling, Timer APIs.
+Week 04: Node.js, NPM, Modules, ESM, CRUD Operations, REST APIs, Express, MVC Architecture, Middleware.
+Week 05: Databases Introduction, SQL Queries, Joins, Subqueries, Hosted Postgres, node-postgres, Environment Variables.
+Week 06: Testing Basics, TDD, E2E Testing, API Testing, Vitest, Supertest, Playwright.
+Week 07: Product and Product Teams, UX/Design Thinking Process, User Research, Wireframes, Basics of UI Design, CSS Layouts.
+Step 2 - Assign Confidence Ratings
+For each topic, assign a confidence rating on a scale of 1 to 5, where 1 represents "very uncomfortable" and 5 signifies "very comfortable."
+
+
+Consider making a spreadsheet where you list all topics and assign them ratings. You could add a column for comments where you can note
+what specifically you are comfortable with or what you find challenging.
+
+
+Questions that should help with rating topics:
+
+How well do you understand the general/high-level concept?
+Can you apply what you've learned?
+Could you explain it to someone else?
+Step 3 - Reflect and Analyse
+Examine your ratings. Do you spot any trends? Perhaps you excel in front-end technologies but lag in the back-end? Do you find you 
+struggle more with practical implementation? Also, don't hesitate to analyse why you feel the way you do about certain topics. 
+Is it because of the amount of practice you've had, or does it align with your interests? Use this reflection phase to jot down your observations.
+
+Prioritisation and Action Planning
+Step 1 - Create a Priority List
+Arrange the topics based on your confidence ratings, starting with the areas where you feel least comfortable. 
+This becomes your priority list.
+
+Step 2 - Develop an Action Plan
+For each area in your top 3-5 weak zones:
+
+Identify specific sub-topics or skills to improve.
+Find resources: Past workshops, tutorials, documentation, online videos, etc.
+Set achievable milestones.
+Create deadlines.
+Identify metrics for success: a project, a test or quiz, etc.
+Step 3 - Share and Get Feedback
+Share your plans with your team and/or mentor for feedback. They may offer insights that you hadn't considered, 
+such as a different approach to tackling a challenging topic or additional resources.
+
+The Main Goal
+Remember, Rome wasn't built in a day. The goal is to be better today than you were yesterday. 
+So take this audit seriously - it's for your benefit!
+
+
+By focusing on what you need to improve, you'll use your time wisely. Knowing what you don't know helps you 
+reduce spending time on things you already understand. Having a good handle on the basics will prepare you for tougher topics ahead.
+
