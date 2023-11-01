@@ -44,3 +44,22 @@ https://blog.greenroots.info/what-are-pure-functions-and-side-effects-in-javascr
 
 ROCK PAPER SCISSORS FOR KIDS IN JAVASCRIPT tutorial
 https://www.codewizardshq.com/javascript-tutorial-for-kids-rock-paper-scissors/
+
+1.11.2.23 - WEDNESDAY - DEPLOYEMENT
+DEPLOY THE BACKEND TO RENDER
+https://render.com/docs/web-services#deploying-from-a-git-repository 
+
+INFORMATION TO CONFIGURE ENVIRONMENT VARIABLES FOR YOUR DEPLOYED API
+https://render.com/docs/configure-environment-variables#1-per-service-environment-variables
+
+TO DEPLOY FRON END
+https://vercel.com/docs/getting-started-with-vercel/projects-deployments
+
+ADDS PROTECTION TO YOUR MAIN BRANCH (prevents people from pushing directly to main, requiring PRs to be approved, requiring checks to pass before PRs are merged)
+https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches 
+
+CREATES A WORKFLOW THAT RUNS AUTOMATED CHECKS EACH TIME A PR IS OPENED AND SOMEONE WANTS TO MERGE CODE INTO THE MAIN. 
+https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs#introduction to create a 
+
+2.11.2023 - THURSDAY - 
+
