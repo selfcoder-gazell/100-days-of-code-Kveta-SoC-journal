@@ -1,13 +1,45 @@
 ### DAY 50: OCTOBER 31, TUESDAY, 2023 ()
 
 ** Today's PROGRESS**:
-
+Today we revised SQL Joins using the links given on days 25-30 of this boot camp. 
+We revisited those two links:
+SQL Joins Explained - https://www.youtube.com/watch?v=9yeOJ0ZMUYw
+SQL Join Examples - https://www.youtube.com/watch?v=Jh_pvk48jHA
 
 MORNING:
+In the morning Chris (the founder of BootCamp) came in and had a speech/update about 
+the progress we were making as a team and gave us feedback about last week's project. 
+
+We revise HTTP:
+https://www.freecodecamp.org/news/http-full-course/
+
+We revise the computational thinking process.
+https://www.bbc.co.uk/bitesize/guides/zp92mp3/revision/1
 
 AFTERNOON:
+In the afternoon we practise TIMER API. 
+We worked again on the clock app we were sent several weeks ago.
+We created a new repository and started all over again. 
+Here is the link to it:
+
+https://github.com/RobearP/week9-clock.git
+
+//PLAN
+//create a function loop (infinite) to move hand every 1 second
+//  setInterval time = 1 second (1000)
+//  rotate hand clockwise 6degrees each loop (360 / 60 = 6)
+//  let timerId = setTimeout(func|code, [delay], [arg1], [arg2], ...)
+// hand.style.transform = `rotate(90deg)`; //:mag: HINT: This is an example of how to rotate the hand!
+// moveSecondHand();
+
+https://javascript.info/settimeout-setinterval  More info about it
 
 ** THOUGHTS:**
 
 
 ** LINK TO WORK:
+https://sqlbolt.com/lesson/select_queries_with_joins
+https://pgexercises.com/questions/joins/
+
+
+https://www.w3schools.com/sql/sql_join.asp
