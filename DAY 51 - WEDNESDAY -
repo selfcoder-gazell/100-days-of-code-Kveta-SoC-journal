@@ -23,9 +23,25 @@ Great voting ideas and use of team allocation, but this could've been brought to
 “Demo was a little short and did not show off much of the app, would have liked to see more!”
 
 AFTERNOON:
+Backend deployment (45 minutes):
+Accept the classroom link (it’s a group repo): https://classroom.github.com/a/Fp386WZH
+Try to get the application running locally first (you’ll need to set up a PostgreSQL database, set 
+the connection string as an environment variable in the .env file, and run the NPM db-reset script)
+Use the information within https://render.com/docs/web-services#deploying-from-a-git-repository to 
+deploy the backend to Render. You’ll need to sign up for an account. Pay close attention to the host and port 
+configuration section on that page.
+Use the information within https://render.com/docs/configure-environment-variables#1-per-service-environment-variables 
+to configure environment variables for your deployed API.
+If things aren’t working, look at the “logs” for your web service in Render. See if you can spot any clues/error messages there.
+Goal:
+Set up automated deployment, so that each time you push to GitHub, the API is redeployed (with the latest commit).
+Get a URL from Render (where the deployed backend is running)
+Check the deployed API works by sending a request to a supported path (e.g. GET /jokes/random). You should get some JSON back.
+Check if redeployments work by making a small change (maybe adding a new API endpoint). You’ll need to push to GitHub to trigger a redeploy.
 
 ** THOUGHTS:**
 
 
 ** LINK TO WORK:
 https://developer.mozilla.org/en-US/docs/Glossary/MVC
+https://classroom.github.com/a/Fp386WZH
