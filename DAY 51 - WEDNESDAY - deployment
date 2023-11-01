@@ -1,0 +1,81 @@
+### DAY 51: NOVEMBER 1, WEDNESDAY, 2023 ()
+
+** Today's PROGRESS**:
+Today we had Stuart Ecuyer coming to our boot camp to give us a speech about accessibility criteria.
+He works for methods.co.uk - there are few programs for new employees - 
+interested in becoming a cyber security team member or business analyst. 
+https://methods.co.uk/careers/gravitate/
+
+
+MORNING:
+This morning we were revising the MVC model (Media, View, Controler). The link below for details. 
+https://developer.mozilla.org/en-US/docs/Glossary/MVC
+
+Our Coach Loz sent us a feedback link for our presentation last week. 
+https://schoolofcode.notion.site/Team-7-d4cbf76b28414d458a24826329b46da4?pvs=4
+# Team 7
+“If they could provide a slide to introduce the problem, as my colleague and I felt lost when they were introducing the problem verbally”
+---
+“Great idea for a psychological app to aid learning. Very clear problem space definition and product definition. 
+It looked like the boot campers brought all of their collective previous work experience to boost the ideas! Which was great!
+Great voting ideas and use of team allocation, but this could've been brought to life in their manifesto. Use of [gartic. io](http://gartic.io/) was a great team idea.”
+---
+“Demo was a little short and did not show off much of the app, would have liked to see more!”
+
+AFTERNOON:
+Backend deployment (45 minutes):
+1. Accept the classroom link (it’s a group repo): https://classroom.github.com/a/Fp386WZH
+2. Try to get the application running locally first (you’ll need to set up a PostgreSQL database, set 
+the connection string as an environment variable in the .env file, and run the NPM db-reset script)
+3. Use the information within https://render.com/docs/web-services#deploying-from-a-git-repository to 
+deploy the backend to Render. You’ll need to sign up for an account. Pay close attention to the host and port 
+configuration section on that page.
+4. Use the information within https://render.com/docs/configure-environment-variables#1-per-service-environment-variables 
+to configure environment variables for your deployed API.
+5. If things aren’t working, look at the “logs” for your web service in Render. See if you can spot any clues/error messages there.
+6. Goal:
+  a. Set up automated deployment, so that each time you push to GitHub, the API is redeployed (with the latest commit).
+  b. Get a URL from Render (where the deployed backend is running)
+  c. Check the deployed API works by sending a request to a supported path (e.g. GET /jokes/random). You should get some JSON back.
+  d. Check if redeployments work by making a small change (maybe adding a new API endpoint). You’ll need to push to GitHub to trigger a redeploy.
+
+Frontend deployment (45 minutes):
+1. Accept the classroom link (it’s a group repo): https://classroom.github.com/a/xseiBbcD
+2. In the API-helper.js file, change the URL for the API to be the deployed backend URL.
+3. Try to run the front end locally (using something like Live Server). See if it works and can fetch a random quote from the deployed backend.
+4. Commit and push your change.
+5. Use the information within https://vercel.com/docs/getting-started-with-vercel/projects-deployments to deploy the front end. 
+You’ll need to sign up for an account. Since the project only uses HTML, CSS, and JS, you don’t need to configure any frameworks or build commands.
+6. If things aren’t working, try to look at the deploy logs in Vercel. See if you can spot any error messages there. If the frontend is 
+deployed, but isn’t fetching jokes, check the browser console for errors.
+7. Goal:
+  a. Set up automated deployment, so that each time you push to GitHub, the frontend is redeployed (with the latest commit).
+  b. Get a URL from Vercel (where the deployed frontend is running).
+  c. Check the deployed frontend works by visiting its URL in a browser. You should see the UI and be able to display a new joke by clicking the button.
+  d. Check if redeployments work by making a small change (maybe change the color of the text). You’ll need to push to GitHub to trigger a redeploy.
+
+Project deployment (50 minutes):
+1. Deploy the backend from project week.
+2. Deploy the frontend from project week (assuming it’s separate from your backend or not served by your Express app).
+3. Make your deployed frontend speak to your deployed backend (using the URLs in the fetch request).
+
+Stretch goals:
+You should have automated deployment set up. Each commit to the main should trigger a redeploy. This is good, but it’s also useful 
+to set up some checks/protection (otherwise, it’d be easy to accidentally push broken code to the repo, and then that gets automatically 
+released to your users).
+1. Use the information within https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches 
+to add protection to your main branch (e.g. prevent people from pushing directly to the main, require PRs to be approved, require checks to pass before PRs are merged).
+2. Use the information within https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs#introduction to create a workflow that 
+runs automated checks each time a PR is opened and someone wants to merge code into main. The automated checks could include formatting, linting, automated tests, 
+etc (there are already NPM scripts set up for this).
+
+** THOUGHTS:**
+
+Today we have learned how to deploy our Backend as well as Frontend using free interent providers. 
+For the Back end, we used www.render.com and for the back end, we used www.vercel.com. 
+When working on our project and trying to deploy it we had to protect our main branch.
+We could use the same website for deploying frontend and backend but we have chosen to follow our coach's advice on the selection of free providers. 
+
+** LINK TO WORK:
+https://developer.mozilla.org/en-US/docs/Glossary/MVC
+https://classroom.github.com/a/Fp386WZH
