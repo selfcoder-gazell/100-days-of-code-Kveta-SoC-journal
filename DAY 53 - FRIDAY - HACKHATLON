@@ -1,0 +1,95 @@
+
+
+
+
+Today, you'll be diving into a real-world-like tech test that will allow you to showcase the skills you've been developing.
+You will have a choice among three different full-stack projects. Each one will test your abilities and encourage you to apply 
+your knowledge to create something tangible and functional.
+You're currently in groups of five or six, so you'll need to divide yourselves into pairs or trios. Decide amongst yourselves 
+how you wish to team up, balancing the group's dynamics and ensuring everyone is on board with the chosen project.
+Tech Test Choices:
+Option 1: Note-Taking Application
+Option 2: Personal Budget Manager
+Option 3: Event Scheduler and Calendar
+Consider your interests, strengths, and what skills you want to challenge when choosing. There's no right or wrong choice here - 
+each option is a pathway to demonstrate your creativity and problem-solving prowess.
+-----------------------------------------
+https://docs.google.com/document/d/e/2PACX-1vQuz8MsTDEEq3qJKvThanWJm2naXLsy1AbjogX9t15L2lVfPaRAOZUKLOMnz7axE6xLCqFgV50fv_0F/pub
+Full-Stack Tech Test (Note-Taking App)
+Objective
+Create a functional note-taking application that allows users to manage their notes with CRUD (Create, Read, Update, Delete) operations.
+
+Requirements
+Users should be able to create, view, edit, and delete notes.
+Notes should have a title and a content body.
+Implement a database to persist note data.
+Deploy/host your project on a publicly accessible URL so we can see it working
+Technical Specifications
+Front-End
+HTML, CSS, and JavaScript
+Back-End
+RESTful API developed with Node.js.
+Integrate a database (e.g. PostgreSQL).
+Automated Tests
+Include tests for your API endpoints.
+Ensure core functionality is covered.
+Development Rules
+Work in pairs or trios, using the Driver-Navigator approach for coding. Make sure to switch roles regularly!
+Make frequent, small commits to track and manage changes easily.
+Plan before you code. Write pseudocode as comments in your code to act as a roadmap when you start to code. Break down each step and think through the logic.
+Remember: The goal is to solve the problem before you start coding. Think of the actual code as simply translating your well-thought-out plan into syntax the computer understands. 
+Working this way will make the development process more organised. Good software development is as much about planning and understanding as it is about writing the code.
+
+https://docs.google.com/document/d/e/2PACX-1vQbCvbYotVqxI4mn6R93CTLvkqObmV8qki6gEOWmIsr7m0YmD9hJD6n4JEfq9hxFbuxBQWDjqjfuknr/pub
+Full-Stack Tech Test (Personal Budget Manager)
+Objective
+Build an application that helps users track their personal finances, detailing income and expenses.
+
+Requirements
+Functionality for recording and categorising financial entries.
+Summary dashboard of finances.
+Data visualisation for financial data. (Optional)
+Deploy/host your project on a publicly accessible URL so we can see it working
+Technical Specifications
+Front-End
+HTML, CSS, and JavaScript
+Back-End
+RESTful API developed with Node.js.
+Integrate a database (e.g. PostgreSQL).
+Automated Tests
+Include tests for your API endpoints.
+Ensure core functionality is covered.
+Development Rules
+Work in pairs or trios, using the Driver-Navigator approach for coding. Make sure to switch roles regularly!
+Make frequent, small commits to track and manage changes easily.
+Plan before you code. Write pseudocode as comments in your code to act as a roadmap when you start to code. Break down each step and think through the logic.
+Remember: The goal is to solve the problem before you start coding. Think of the actual code as simply translating your 
+well-thought-out plan into syntax the computer understands. Working this way will make the development process more organised. 
+Good software development is as much about planning and understanding as it is about writing the code.
+
+https://docs.google.com/document/d/e/2PACX-1vTb2aTh4laYAb8UWELASlYAJZurdCYJqsvSJY9U8Wo9yLbMTnxIr6BxPchWvcwHOz3NbcAD5m1aPghl/pub
+Full-Stack Tech Test (Event Scheduler and Calendar)
+Objective
+Develop an application where users can schedule and manage events within a calendar interface.
+
+Requirements
+Add, view, edit, and delete events on a calendar.
+Effective display of events on the calendar.
+Conflict detection to prevent overlapping events.
+Deploy/host your project on a publicly accessible URL so we can see it working
+Technical Specifications
+Front-End
+HTML, CSS, and JavaScript
+Back-End
+RESTful API developed with Node.js.
+Integrate a database (e.g. PostgreSQL).
+Automated Tests
+Include tests for your API endpoints.
+Ensure core functionality is covered.
+Development Rules
+Work in pairs or trios, using the Driver-Navigator approach for coding. Make sure to switch roles regularly!
+Make frequent, small commits to track and manage changes easily.
+Plan before you code. Write pseudocode as comments in your code to act as a roadmap when you start to code. Break down each step and think through the logic.
+Remember: The goal is to solve the problem before you start coding. Think of the actual code as simply translating your 
+well-thought-out plan into syntax the computer understands. Working this way will make the development process more organised. 
+Good software development is as much about planning and understanding as it is about writing the code.
