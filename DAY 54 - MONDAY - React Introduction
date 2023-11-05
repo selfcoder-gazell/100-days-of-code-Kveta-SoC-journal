@@ -1,0 +1,30 @@
+### DAY 54: NOVEMBER 5, MONDAY, 2023 ()
+
+** Today's PROGRESS**:
+Today we were introduced to React. 
+Our homework for the weekend was: 
+
+Here’s your prep list that’ll be super helpful when we tackle React:
+1:Template Literals - Use backticks to create dynamic strings with ease.
+2:Destructuring - Unpack properties from objects and elements from arrays into distinct variables.
+3:Rest & Spread Operators - Handle multiple parameters gracefully in functions (rest) and clone or merge arrays/objects seamlessly (spread).
+4:Ternary Operator - Simplify your if-else statements into one-liners for cleaner code.
+5:Logical Operators - Employ && and || for more concise and readable conditional expressions.
+6:Short-Circuit Evaluation - Use logical operators to assign values or control flow without full conditional statements.
+7:Optional Chaining (?.) - Access properties of nested objects without worrying about null or undefined.
+8:Arrow Functions - Write shorter function syntax for better readability and scope management.
+9:Modern Array Methods - Get hands-on with .map(), .filter(), .with(), and more for powerful data handling.
+10:Immutable Array Patterns - Learn the importance of not altering the original array and techniques to keep your data unmutated.
+11:Asynchronous JavaScript - Get to grips with Promises and Async/Await for managing asynchronous operations.
+The key is to familiarize, not memorize. :brain: Your goal is to understand how these work and why they're useful.
+
+
+MORNING:
+
+
+
+** THOUGHTS:**
+
+
+
+** LINK TO WORK:
