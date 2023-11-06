@@ -17,17 +17,66 @@ Here’s your prep list that’ll be super helpful when we tackle React:
 10:Immutable Array Patterns - Learn the importance of not altering the original array and techniques to keep your data unmutated.
 11:Asynchronous JavaScript - Get to grips with Promises and Async/Await for managing asynchronous operations.
 The key is to familiarize, not memorize. :brain: Your goal is to understand how these work and why they're useful.
-
+-----------------------------------
 
 MORNING:
-https://schoolofcode.notion.site/schoolofcode/Employability-Hub-137e81fade6644d981bc854cab005b42
-
-
+Arshi sent us a link for overall employability
+hub: https://schoolofcode.notion.site/Employability-Hub-bf9ae18f9c4442c493560a7bedef6a27
+We need to upload a CV by the 20. of November:
+https://docs.google.com/forms/d/e/1FAIpQLSe1zaWG5qV_DbvMx_7YTIvgz6ToHAYzpCNJnPRYxP3zkQKqng/viewform
+and fill in Role preferences by end of today:
+https://docs.google.com/forms/d/e/1FAIpQLSe1zaWG5qV_DbvMx_7YTIvgz6ToHAYzpCNJnPRYxP3zkQKqng/viewform
+-----------------------------------------
 AFTERNOON:
-https://savory-soap-3c4.notion.site/React-Documentation-c3e1def3bdcb41c1bb6bb63196380f3b
+We have been sent a link to a repository:
+https://github.com/SchoolOfCode/bc15-w10-d1-workshop-vanilla-js-counter-team24-w10
+The link was for writing a code for adding and subtracting functions. 
+------------------------------
+Tools Checklist
+Node.js v18 minimum
+Prettier (VS Code Extension)
+ESLint (VS Code Extension)
+React Developer Tools (Chrome Extension) https://react.dev/learn/react-developer-tools
+React App Initialization
+Once you've confirmed the installation of the tools, next step is to try and initialize a React application. 
+Try both of these tools/methods:
+Try using create-react-app for a more traditional setup. 
+https://create-react-app.dev/docs/getting-started
 
+If you're up for something newer, give Vite a shot. 
+https://vitejs.dev/guide/#scaffolding-your-first-vite-project
+
+Both of these tools will scaffold a new React project for you. 
+Once initialized, you can launch the app and make sure the welcome page loads in your browser.
+Let us know in help-dev about any strange installation issues.
+-----------------------------------
+https://savory-soap-3c4.notion.site/React-Documentation-c3e1def3bdcb41c1bb6bb63196380f3b
+---------------------------------
 ** THOUGHTS:**
 
 
 
 ** LINK TO WORK:
+TASK FOR TOMORROW:
+Data for our React Flashcard App (Tomorrow)
+Your task is to use a quick video and the React docs to create a list of questions and answers that we'll use as content for our flashcard app.
+Task Instructions:
+Watch the Video: https://www.youtube.com/watch?v=s2skans2dP4
+
+Note down any points/concepts that stand out to you.
+Explore React Documentation: Visit the React official documentation and 
+read through the sections. Focus on understanding the core principles and functionalities of React.
+Formulate Questions and Answers: Based on the video and documentation, come up with at least 10 questions related to React. 
+An answer should accompany each question. These will form the basis of our flashcard app's content.
+Assign Unique IDs: To manage our questions and answers effectively in our app, assign a unique ID to each Q&A pair. 
+You can use a simple numbering system, UUIDs, or any other unique identifier scheme you're comfortable with.
+We will use these Q&A pairs to build our React flashcard app tomorrow, which will help solidify your understanding of React.
+Save your question bank in a JSON file on your machine. Example below:
+[
+  {
+    "id": "q1",
+    "question": "What is the Virtual DOM in React?",
+    "answer": "The Virtual DOM is a programming concept where a virtual representation of the UI is kept in memory and synced with the real DOM by a library such as ReactDOM. This process is called reconciliation."
+  },
+  ...
+]
