@@ -2,6 +2,16 @@
 
 ** Today's PROGRESS**:
 
+Here are a few stretch goal ideas for the React Flashcards app:
+When there are no flashcards, show a message to the user like "You haven't added any flashcards yet! 
+Start creating your learning set."
+Above the footer, we can display a count of how many flashcards have been added. Something like 
+"You have added [x] flashcards" would be great. (Adding derived state)
+Add functionality that allows the user to change/edit the question and answer on any card.
+Allow the user to add a category to each flashcard (difficulty or subject) and then implement 
+sorting or filtering options.
+Remember, these are stretch goals, so let's focus on getting our core functionality perfect first and then 
+tackle these as we can. Also, feel free to come up with your own and improve the app as you see fit. (
 
 
 MORNING:
@@ -14,3 +24,5 @@ MORNING:
 
 
 CLASSROOM LINK:
+https://github.com/SchoolOfCode/bc15-w10-d2-workshop-react-flash-cards-app-team24-w10
+
