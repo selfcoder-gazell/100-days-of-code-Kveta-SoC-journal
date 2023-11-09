@@ -5,13 +5,52 @@
 
 
 MORNING:
+Example code of controlled input:
+------------------------
+import { useState } from "react";
+import "./styles.css";
+
+export default function App() {
+  const [value, setValue] = useState("");
+
+  function handleChange(e) {
+    setValue(e.target.value);
+  }
+
+  return (
+    <>
+      <input type="text" value={value} onChange={handleChange} />
+      <h1>{value}</h1>
+    </>
+  );
+}
+
+----------------------------
+Topics mentioned:
+props
+state
+useState
+lifting state up
+handling events
+parent-child & child-parent communication
+one-way data flow
+controlled form components
+component trees
+-------------------
+React docs:
+Describing UI - https://react.dev/learn/describing-the-ui
+Adding Interactivity - https://react.dev/learn/adding-interactivity
+Managing State - https://react.dev/learn/managing-state
+----------------------
 
 
 ** THOUGHTS:**
 
 
 ** LINK TO WORK:
-
+Describing UI - https://react.dev/learn/describing-the-ui
+Adding Interactivity - https://react.dev/learn/adding-interactivity
+Managing State - https://react.dev/learn/managing-state
 
 
 CLASSROOM LINK:
