@@ -22,6 +22,64 @@ MORNING:
 
 ** LINK TO WORK:
 
+import { useState } from "react";
+import "./App.css";
+
+// React: Building UIs
+
+// Component:
+//    - Reusable piece of the UI
+//    - Functions starts with a capital letter
+//    - Return some JSX (or anything that React can render)
+
+// JSX: Language for expressing UIs
+
+// Props:
+//    Input to a component
+//    Passed from parent to child in key={value} pairs
+//    Child can then extract them from the props object.
+
+// State:
+//    React variable -> Remember / keeping track of things
+//    "reactive" -> when you change the information, the UI updates (to keep in sync with the new changes)
+
+// useState:
+//    helpful for creating state
+//    returns an array contains 2 things:
+//      current value of that reactive variable
+//      a way to change that reactive variable
+
+function App() {
+  // create some state to keep track of the count
+  // 'reactive'
+  // destructuring arrays in JS
+  // destructuring assignments
+  const [count, setCount] = useState(0);
+
+  console.log("App has rendered");
+
+  function incrementCount() {
+    // changing state triggers a rerender
+    // rerender -> React will call the component function
+    setCount(prev => prev + 1);
+  }
+
+  // Change the count when a button is clicked
+  //    Create a button
+  //    Event listener on the button
+  //    when the button is clicked, increment the value
+  //    Can skip with React: Update the DOM manually to reflect the incremented value
+
+  return (
+    <main>
+      <button onClick={incrementCount}>Click me to increment</button>
+      {count}
+    </main>
+  );
+}
+
+export default App;
+
 
 CLASSROOM LINK:
 https://github.com/SchoolOfCode/bc15-w10-d2-workshop-react-flash-cards-app-team24-w10
