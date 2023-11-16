@@ -12,16 +12,23 @@ https://eloquentjavascript.net/
 MORNING:
 Today I have learned that testing dependencies are already installed when we create our react app. 
 1. We have to import certain tests into our testing files before the testing can commence. 
+  //import the stuff that you need from Jest
+  //import the component that you are testing
+  //import  the stuff from React testing Library
+
 Sometimes we might need to create a const with all the props we might be using: before the test
   const props = {
     name: "testKveta",
     completed: true,
     tickItem: jest.fn(),
     };
+
 2. Secondly we needed to create a test skeleton:
   test ("description", function (){} );
+
 3. Then we render the component. 
   render (<ListItem name="Potatoes" completed={true} />;
+
 4. Lastly we need to identify the component:
 const li = screen.getByRole("listitem")
        expect(li.textContent).toBe("testKveta")
