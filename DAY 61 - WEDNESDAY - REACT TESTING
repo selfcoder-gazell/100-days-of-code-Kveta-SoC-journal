@@ -27,10 +27,13 @@ Sometimes we might need to create a const with all the props we might be using: 
   test ("description", function (){} );
 
 3. Then we render the component. 
+//Pass in a function for the ...... prop
   render (<ListItem name="Potatoes" completed={true} />;
 
 4. Lastly we need to identify the component:
+//locate the rendered output (li)
 const li = screen.getByRole("listitem")
+//perform assertion:  assert that the li contains "testKveta"
        expect(li.textContent).toBe("testKveta")
     });
 
