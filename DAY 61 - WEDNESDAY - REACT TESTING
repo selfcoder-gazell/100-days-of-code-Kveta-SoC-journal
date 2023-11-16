@@ -2,16 +2,41 @@ DAY 61: NOVEMBER 15, WEDNESDAY, 2023 ()
 
 ** Today's PROGRESS**:
 Today we talked to an ex-boot camper about her tech journey. It was lovely listening to someone else's experience. 
-
-
+Camila Brizzi from Motability Operations Ltd. 
+She gave us a lot of tips on how to make the most of the time in this bootcamp. 
+INCLUDING:
+- reflecting on each day - will solidify the knowledge
+- complete homework at the end of each day and on Sundays
+https://eloquentjavascript.net/
 
 MORNING:
+Today I have learned that testing dependencies are already installed when we create our react app. 
+1. We have to import certain tests into our testing files before the testing can commence. 
+Sometimes we might need to create a const with all the props we might be using: before the test
+  const props = {
+    name: "testKveta",
+    completed: true,
+    tickItem: jest.fn(),
+    };
+2. Secondly we needed to create a test skeleton:
+  test ("description", function (){} );
+3. Then we render the component. 
+  render (<ListItem name="Potatoes" completed={true} />;
+4. Lastly we need to identify the component:
+const li = screen.getByRole("listitem")
+       expect(li.textContent).toBe("testKveta")
+    });
 
+
+We spent some of the morning working on our workshop - react component testing workshop
 
 AFTERNOON:
-
+In the afternoon we worked through the testing workshop. 
 
 ** THOUGHTS:**
 
 
 ** LINK TO WORK:
+LINK TO OUR WORKSHOP: 
+React Component Testing Workshop
+https://github.com/SchoolOfCode/bc15-w11-d3-workshop-react-testing-library-week11-team27.git
