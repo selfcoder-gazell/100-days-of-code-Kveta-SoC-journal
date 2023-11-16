@@ -27,13 +27,15 @@ Sometimes we might need to create a const with all the props we might be using: 
   test ("description", function (){} );
 
 3. Then we render the component. 
-//Pass in a function for the ...... prop
+//Pass in a function for the ...... prop: name, completed, tickItem
   render (<ListItem name="Potatoes" completed={true} />;
 
 4. Lastly we need to identify the component:
 //locate the rendered output (li)
+//find the list element to be tested
 const li = screen.getByRole("listitem")
 //perform assertion:  assert that the li contains "testKveta"
+//expecting li to contain Potatoes
        expect(li.textContent).toBe("testKveta")
     });
 
@@ -43,10 +45,15 @@ We spent some of the morning working on our workshop - react component testing w
 AFTERNOON:
 In the afternoon we worked through the testing workshop. 
 
+//Pretty console.log of what's been rendered
+screen.logTestingPlaygroundURL();
+
 ** THOUGHTS:**
 
 
 ** LINK TO WORK:
+TESTING PLAYGROUND: used to find the best-suggested query to use in our code
+testing-playground.com 
 LINK TO OUR WORKSHOP: 
 React Component Testing Workshop
 https://github.com/SchoolOfCode/bc15-w11-d3-workshop-react-testing-library-week11-team27.git
