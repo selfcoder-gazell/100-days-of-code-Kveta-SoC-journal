@@ -16,14 +16,21 @@ https://github.com/lakorthus
 
 
 ** LINK TO WORK:
-
+FIGMA SHOPPING CART APPLICATION:
+https://github.com/SchoolOfCode/bc15-w10-d5-hackathon-react-team24-w10
+https://github.com/SchoolOfCode/bc15-w10-d5-hackathon-react-team24-w10-KVETA
+FIGMA PLANNING:
+https://www.figma.com/file/A2gB62QCXYVQqlEMK3I8Ve/Untitled?type=whiteboard&node-id=5-22&t=gDQQUUYOJyR78RHt-0
 
 
 CLASSROOM LINK:
 
 React SPA App Hackathon
 Brief
-Welcome to the React SPA (Single Page Application) App Hackathon! This challenge is a fantastic opportunity to harness your React skills and understanding of component-based architecture. Your mission, should you choose to accept it, is to plan, develop, and present a fully functioning React SPA of your choice. Focus on creating a detailed component tree, outlining where state and props will be managed in your application.
+Welcome to the React SPA (Single Page Application) App Hackathon! This challenge is a fantastic opportunity to harness your 
+React skills and understanding of component-based architecture. Your mission, should you choose to accept it, is to plan, 
+develop, and present a fully functioning React SPA of your choice. Focus on creating a detailed component tree, outlining 
+where state and props will be managed in your application.
 
 Objectives
 Develop a React SPA with a clear component structure.
@@ -33,8 +40,12 @@ Deliver a functional MVP within a tight timeframe.
 Development Rules
 Work in pairs or threes, using the Driver-Navigator approach for coding. Make sure to switch roles regularly!
 Make frequent, small commits to track and manage changes easily.
-Plan before you code. Before coding, outline your component tree and specify the state and props for each component. Think through the logic for each function, considering inputs, outputs, and logic.
-Remember: The goal is to solve the problem before you even start coding in JavaScript/React/JSX. Think of the actual code as simply translating your well-thought-out plan into syntax the computer understands. Working this way will make the development process more organised. Good software development is as much about planning and understanding as it is about writing the code.
+Plan before you code. Before coding, outline your component tree and specify the state and props for each component.
+Think through the logic for each function, considering inputs, outputs, and logic.
+Remember: The goal is to solve the problem before you even start coding in JavaScript/React/JSX. 
+Think of the actual code as simply translating your well-thought-out plan into syntax the computer understands. 
+Working this way will make the development process more organised. Good software development 
+is as much about planning and understanding as it is about writing the code.
 
 Technical Requirements
 Programming Language: JavaScript (React.js).
