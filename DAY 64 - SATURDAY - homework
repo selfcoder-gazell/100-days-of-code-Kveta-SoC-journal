@@ -1,8 +1,8 @@
-### DAY 9: SEPTEMBER, THURSDAY, 2023 ()
+### DAY 64: NOVEMBER, SATURDAY, 2023 ()
 
 ** Today's PROGRESS**:
 For the recap task, we’d like you to build something with React (or Next.js if you prefer). 
-Start small, practise the concepts you want to prioritise and build it out from there. 
+Start small, practice the concepts you want to prioritize and build it out from there. 
 If you want to stretch yourself, feel free to explore the React ecosystem and incorporate 
 something you've not tried before.
 We'll see you on Monday at 10:45 AM. Have a great weekend!
@@ -12,15 +12,21 @@ MORNING:
 
 
 ** THOUGHTS:**
+I spoke about my project with my mentor on Monday and she gave me some suggestions on where to start. 
+1. find a repository project from the past where there is already a database and 1 table included
+2. create another table and start writing code to query the table
+  - code to show all blogs for a particular user
 
+3. follow a project on Prisma https://www.prisma.io/docs/getting-started
+4. implement my new knowledge on a project starting from scratch
 
 ** LINK TO WORK:
 LINKS TO HELP ME WITH THIS TASK:
-https://vercel.com/guides/nextjs-....... - How to Build Fullstack App with Next.js, Prisma and Vercel Postgres. 
+https://vercel.com/guides/nextjs-....... - How to Build Fullstack App with Next.js, Prisma, and Vercel Postgres. 
 https://yashpurani.medium.com/w..... - What is Prisma? How to use it with NextJS?
 nextjs.org
 https://www.prisma.io/docs/getting-started/setup-prisma/add-to-existing-proj ... - Relational databases
-https://www.joshwcomeau.com/nextjs/refreshing-server-side-props/ .... - Refreshing server side props
+https://www.joshwcomeau.com/nextjs/refreshing-server-side-props/ .... - Refreshing server-side props
 https://www.prisma.io/netjs
 https://nextjs.org/docs/getting-started/project-structure
 
