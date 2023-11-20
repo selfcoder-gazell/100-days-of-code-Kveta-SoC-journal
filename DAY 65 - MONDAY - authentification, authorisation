@@ -1,0 +1,59 @@
+### DAY 64: NOVEMBER, SATURDAY, 2023 ()
+
+** Today's PROGRESS**:
+Today we were introduced to authentification and authorization. 
+Looking at the difference between session-based and token-based methods. 
+
+MORNING:
+What are some ways to implement authentication and authorization in web applications?
+Authorization:
+User Roles:
+Define different user roles (e.g., admin, user).
+Assign roles to users based on their responsibilities.
+Access Control Lists (ACL) or Role-Based Access Control (RBAC):
+ACL: Define specific permissions for each user.
+RBAC: Assign predefined roles to users, each with a set of permissions.
+Middleware/Route Guards:
+Use middleware (in server-side applications) or route guards (in client-side applications) 
+to check if a user has the necessary role or permissions before allowing access to certain pages or resources.
+
+
+AFTERNOON:
+How to do token-based authentication and authorization work?
+Token-Based Authentication:
+Storage: Think of it like getting a special key (token) when you log in to a website. 
+You keep that key with you (like in your pocket) and show it whenever you want to access something on the website.
+Server’s Memory: The website doesn’t have to remember anything about you. It just checks 
+if your key is valid. It’s like having a concert ticket – the security checks the ticket 
+but doesn’t need to know who you are.
+Session-Based Authentication:
+Storage: Instead of a key, imagine you get a stamp on your hand when you enter a fun place. 
+As long as you have that stamp, you can do different things in the place without showing your ID each time.
+Server’s Memory: The website keeps a list of everyone with a stamp (session). When you want 
+to do something, it checks the list to see if you’re allowed. It’s like being on a guest list at a party.
+Which is Cooler?:
+Token-Based: It’s like having a magic key to open doors without the website remembering who you are. 
+Good for big websites with lots of people.
+Session-Based: It’s like having a VIP pass that lets you do stuff as long as the website knows you’re 
+still around. Works well for smaller parties where everyone knows each other.
+How Long You’re In:
+Token-Based: Your key might have an expiration time. If it does, you’ll need to get a new one after a while.
+Session-Based: You can stay as long as you’re active. If you leave the party (website) for a while, 
+your stamp might fade, and you’ll need to get a new one when you come back.
+In Simple Terms:
+Token-Based: Imagine having a magical key that lets you into a club without the club needing to remember you.
+Session-Based: Picture getting a stamp on your hand at a party – as long as you have the stamp, you’re 
+part of the party, and the organizers keep a list of everyone with a stamp.
+Remember, both methods are like different types of passes to get into online places and the choice 
+depends on what works best for the specific situation, just like deciding between different types of passes for different events.
+
+** THOUGHTS:**
+
+** LINK TO WORK: from my co-bootcampers:
+https://chat.openai.com/share/07e77ca2-1c51-4b41-958a-4e413de189c5
+
+https://www.authgear.com/post/web-application-authentication-guide
+
+https://chat.openai.com/share/628ecaa7-55f7-4ad0-9f51-2e3926d6e458
+
+https://www.geeksforgeeks.org/session-vs-token-based-authentication/
