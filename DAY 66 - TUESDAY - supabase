@@ -1,15 +1,64 @@
 ### DAY 66: NOVEMBER, TUESDAY, 2023 ()
 
 ** Today's PROGRESS**:
-
+Today we were given a task (see the below link for details).
 
 MORNING:
 
 
 ** THOUGHTS:**
-
+We did not get very far in our project. Only managed to log in, create a log out button, and log out, 
+create a database with two tables (users and table with recipes). 
 
 ** LINK TO WORK:
+https://supabase.com/docs/guides/auth/auth-email
+https://www.youtube.com/watch?v=H1V716XPUEs
+https://youtu.be/VjohMDwjty4?si=bu0acxbKukm4ci8S
+https://youtu.be/dRVOhY-3iXY?si=N5DZ8v0mJwOdg6sB
+adding user permissions around 8 mins: https://supabase.com/docs/learn/auth-deep-dive/auth-policies
 
+wendyrich.bootcamp@gmail.com
+katiecoder22@gmail.com
 
 CLASSROOM LINK:
+https://github.com/SchoolOfCode/bc15-w12-d2-workshop-auth-with-supabase-team24-week12.git
+
+Supabase Workshop 🔑🔓
+Task 1: Authentication with Supabase
+Sign up for a Supabase account and log in to the Supabase dashboard
+Follow this guide: https://supabase.com/docs/guides/auth/quickstarts/react
+Once you’ve completed the guide, check if the signup, login, logout functionality of your React app works.
+Once you’ve created an account, try to find the newly created user in the Supabase dashboard 
+(you can run a SQL query against the users table, or alternatively view users in your project's Auth section).
+Have a look at: https://supabase.com/docs/guides/auth
+Task 2: Authorisation with Supabase
+Using the following resources as a guide and add authorization to the React app you created in the previous task:
+
+https://supabase.com/docs/learn/auth-deep-dive/auth-deep-dive-jwts
+https://supabase.com/docs/learn/auth-deep-dive/auth-row-level-security
+https://supabase.com/docs/learn/auth-deep-dive/auth-policies
+What authorization rules you choose to set up are up to you and your team (and 
+really depends on what kind of application you want to build).
+
+For example, you could build an "energiser scores" application and set up a 
+"leaderboard" table that every user can read from, but can't write to.
+Or you could build a "todos" application where each user can only perform CRUD 
+actions against their todos. In other words, each user should only be able 
+to read/write their own todos, but they should not be able to read/write another user's todos!
+You can set up tables via the SQL editor (in the Supabase dashboard). For CRUD 
+operations (e.g. adding a new todo for the current user), you can use the 
+Supabase client that you installed earlier (docs).
+
+Check if things work as expected. For example, see whether a user can 
+read/write anything that they're not meant to be able to.
+
+Task 3 (optional bonus):
+Building something that involves signup/login can often be a stretch goal 
+from project week or a special milestone in your journey as a developer.
+
+If you still have time, start a new React project in this repo (remember to 
+cd into the correct directory when initializing the project, so that you don't end up with a 
+React project inside a React project). What you build is up to you and your team, but the only 
+requirement is that it should use authentication and authorization.
+
+You can treat this as a mini-hackathon 🎉, so be creative and plan/ideate as you normally would.
