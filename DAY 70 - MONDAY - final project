@@ -33,5 +33,68 @@ Have fun and let's make this an amazing experience for everyone involved!
 ** LINK TO WORK:
 Lik to our survey form:
 https://forms.gle/CuLgoNybi56UXxJXA
+All the guides fro school of code how to tackle this project:
+https://schoolofcode.notion.site/Product-Development-Guide-31bc76e7855944d3b0cf582c5106c6d5
+https://schoolofcode.notion.site/Week-One-non-brief-teams-3739c3b0ba9f476ba2e2fe651d3bf63b
+https://schoolofcode.notion.site/Kick-off-and-Week-One-Guide-briefs-teams-db8fff78cc7c43f280de499a0dc77ee1
 
-CLASSROOM LINK:
+# Product Development Guide
+
+Don’t forget what you learned about “*Product”* and “*Design Thinking”.* You should spend the time to deeply understand the problem(s) you’re solving. You should take care to step through the “Design Thinking” steps below (under Discovery heading) and consider if any of them need revisiting as you move through the weeks.
+
+## Discovery:
+
+🧐 Empathise 
+
+- Understand the problem.
+- Understand the users.
+- Understand who else is trying to solve the problem (and how they’re doing that)
+
+🔨 Refine 
+
+- Take all the understanding and create some UX User Personas.
+- Create a refined problem statement.
+
+💡 Ideate 
+
+- There’s lots of ways to solve a problem: you need to discover potential solutions and settle on one to really dedicate yourselves to.
+- Turn that ideal solution into a well scoped MVP. Remember MVPs still need to be useful and actually solve the core problem - they’re just scoped back to exclude anything non-critical. Scope hammering is hard but super important - don’t aim to do too much.
+    - https://www.figma.com/file/wmOzYxxV0sXxpwXF3aG0Ft/MVP-Guidance?type=whiteboard&node-id=0-1
+
+🚧 Prototype
+
+- Wireframe, design and prototype your MVP using something like Figma.
+    - Do not use Developer Mode to copy and paste the HTML and CSS from Figma - it will just give you poor HTML and CSS to start with 😭.
+    
+
+🧪 Test
+
+- Test the Figma prototype with a stakeholder or test users. Ask them to complete a set of actions, see where they stumble or struggle. Take notes. Ask them questions.
+
+## Delivery:
+
+✍🏽 Planning
+
+This is a rough guide, feel free to plan how you’d like:
+
+- Capture your MVP features as “Epics”. A top level feature might be “Dashboard”.
+- Capture the functionality of those features as “User Stories”. Something like “Add the basic dashboard that lists recent posts at the top.” or “Add ability to sort the dashboard by popularity”.
+    - Don’t forget George’s advice 👀 - https://medium.com/@george_wilde/a-guide-to-writing-effective-user-stories-658823dec2e0
+- Capture the work that needs to be done for the User Story to be completed as “Tasks” under that User Story.
+
+Some final planning tips we’d give you: 
+
+- Think through all the aspects of a piece of work. The design work needed, the front-end, the back-end work, the database design.
+- Carefully consider APIs you might be relying on - have you explored and tested them or are they new to you?
+- Where is the risk and the unknown in the work? Highlight risks, try to resolve them or try to at least raise you level of confidence. At a minimum at least be aware.
+- A great way to tackle an unknown is to work out what you don’t know, then do a time boxed proof of concept task where you quickly explore the api or task.
+- Don’t be afraid to come back and adjust your planned work - but don’t do it quietly without talking as a team first.
+
+🛠 Building/Working
+
+- The first thing you should build is a the boilerplate repo and deployment pipelines. Having a clear way to work, build and deploy is the enabler for the rest of what you do.
+- The next thing is probably the basic application shell (base styles, basic header/footer maybe)
+- Consider focussing the teams effort on a single “User Story” until it is deployed. Build for completeness of functionality.
+- Focus on limiting work in progress. Work in pairs and fully complete a Task before you move onto the next Task under that User Story. If you work fast and each pair completes 1/2 Tasks per day each day you might deploy a full User Story each day.
+- Tasks should be small enough that you can get a task done in less than a day.
+- Rotate the type of work you do. Don’t just do front-end or back-end.
