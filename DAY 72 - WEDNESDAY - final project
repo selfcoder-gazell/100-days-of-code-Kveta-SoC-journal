@@ -33,14 +33,36 @@ There were some adjustments done yesterday and we all agreed.
 
 Today we decided that another survey would be beneficial. 
 Sent out another one to Bootcampers as well as a Facebook gardening webpage and waiting for the results. 
-We changed the wording and added different questions. 
-The theme of our app is changing from predominantly buy/sell to swap/share/learn the blog. 
+We changed the wording and added different questions  to our survey. 
+The theme of our app is changing from predominantly buy/sell to swap/share/learn about gardening blogs. 
 
 AFTERNOON: 
 STAND-UP afternoon: 
+We started working on our wireframing and talked about the color scheme. 
+We searched and found similar websites for inspiration as well as apps.  
+We are trying to make the app friendly for the older generation - who are not as good at technology (big letters - easily readable etc.)
+
+
 
 ** THOUGHTS:**
+Nadeem came to our room today and gave us advice on how to tackle this project. 
+- We should decide on an artificial cut of date. 
+- we only have 2-2.5 weeks to complete this in reality
+- we should make sure to create a component tree - hierarchies are a must (parent, child also known as smart and dump). 
+- we should master the git hub flow - branching - main. (repo branching, raise pull requests)
+- deploy early on
+- do not merge to the main from the command line
+- conflict should only exist locally - not on the main
+- main should be always releasable - employers will ask about that
+- The use of particular technology  - why did we use that - employers will ask about that - benefits - to do what? 
+- Give credible technical answers to stakeholders
+- Let go of ego - agree - disagree - quickly - move forward - move on
+- Hardcoded data to start with. 
+- can build UX without backend
 
+At the end of week three - what are we showing them? The product looks like it works. 
+Individual stories - how did we contribute to the team?
+Ask ourselves what is success as a team.
 
 
 ** LINK TO WORK:
