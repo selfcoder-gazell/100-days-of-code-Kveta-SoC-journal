@@ -3,10 +3,10 @@
 ** Today's PROGRESS**:
 Today we did not do daily stand-up at all. Not sure why?
 Tom came to our room and talked about pseudo-stakeholders coming to our room each Friday so we could present to them how far we have come. 
-What did we manage to complete? show them our figma. wireframe, how we planned.
+What did we manage to complete? Show them our Figma, wireframe, and how we planned our project. 
 The spring demo will be for 45 minutes and will begin after lunch tomorrow at some point. 
 
-Our stake holder is called Kacper. 
+Our stakeholder is called Kacper. 
 *Kacper Lebiedziewicz**
 
 Contact: [mrauczyslaw@gmail.com](mailto:mrauczyslaw@gmail.com)
@@ -24,8 +24,21 @@ MORNING:
 Tom gave us a presentation about how we should use Figma for our sprints presentation. 
 We can use the Epic structure.
 We should have 2-3-4-5 Epics.
-Each epic should have features to solve the problems.
+Each epic should have features to solve the problems - also known as user stories.
 Under the feature, we should have a story + descriptive title + functionality. 
+Then we should write how we going to solve the user stories - what features we going to implement. 
+- for excample FE (front end - Create a basic form elements that will be used on each form page. 
+
+EXCAMPLE:
+EPIC1: PREFERENCE GATHER
+
+EPIC2: COMPARISON TOOL
+- Capture further user preferences
+    - FE - Create basic form elements that will be used on each form page. 
+    - FE - Create components and state to manage moving through form. 
+    - FE - create progress components for top of page to reflect position in flow. 
+EPIC3: RESULT PAGE
+
 
 
 ** THOUGHTS:**
