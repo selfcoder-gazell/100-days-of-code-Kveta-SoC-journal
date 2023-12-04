@@ -1,14 +1,28 @@
 ### DAY 75: DECEMBER 4, MONDAY, 2023 ()
 
 ** Today's PROGRESS**:
-retro 
-happy what we achieved last week. 
-
+This morning we did a retro of our last week - planning. 
+We are all very happy with the progress we have made and what we achieved. 
 
 MORNING:
-
+Today we plan to start our repo and install all dependencies, our project is going to be in next.js, using supabase, chakra, and typescript. 
+This morning we were learning and practicing how to do git branching correctly so we never need to commit to the main branch. 
+We created a dev. branch and then separate each task into another sub-branch. 
+In total, we have a few branches to work on (calendar, LogiIn, Tips and Tricks, and superbase). 
 
 ** THOUGHTS:**
-
+This branching was tricky to start with but then we realized that it makes our life much easier. 
 
 ** LINK TO WORK:
+PRACTISE BRANCHING LINK:
+https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=What%20is%20Gitflow%3F,by%20Vincent%20Driessen%20at%20nvie
+
+SUPABASE DETAILS:
+NEXT_PUBLIC_SUPABASE_URL=https://cjvvbpevkjieablenjko.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNqdnZicGV2a2ppZWFibGVuamtvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDE2ODE3MjksImV4cCI6MjAxNzI1NzcyOX0.TTlmXMaEH4IAGxteGROAqG0QYHQKYtgMT6LNtaBG65k
+
+WEBSITE TO BE USED FOR DEPLOYMENT:
+https://harvest-73y25pb6b-patryk-hirnys-projects.vercel.app/
+
+
+
