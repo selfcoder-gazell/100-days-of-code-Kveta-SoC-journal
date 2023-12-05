@@ -24,5 +24,11 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzd
 WEBSITE TO BE USED FOR DEPLOYMENT:
 https://harvest-73y25pb6b-patryk-hirnys-projects.vercel.app/
 
+LINKS USED TODAY:
+https://supabase.com/docs/guides/auth/auth-helpers/nextjs
+https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=What%20is%20Gitflow%3F,by%20Vincent%20Driessen%20at%20nvie
+https://cssgrid-generator.netlify.app/
+
+
 
 
