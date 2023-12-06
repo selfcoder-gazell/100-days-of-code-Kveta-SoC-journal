@@ -1,13 +1,32 @@
 ### DAY 76: DECEMBER 5, TUESDAY 5, 2023 ()
 
 ** Today's PROGRESS**:
-
-
+Today we did morning STAND-UP, a retrospective of yesterday's work - achievements. 
+code for branching in VSC:
+git flow feature start feature_branch
+git checkout develop
+git checkout -b feature_branch
 
 MORNING:
+We spent the morning trying to deploy our code. We kept having issues but resolved them in the end. 
+We practice merging all our code into the develop branch (from the little branches we work on in pairs) and then into the main. 
+There were some issues on the way. 
 
+AFTERNOON:
+We divided ourselves into groups of twos and started working on our code by lunchtime.
 
 ** THOUGHTS:**
-
+WE did a retrospective at the end of the day and were very happy with our progress. 
+The plan for tomorrow morning is to try to deploy our new code again. 
 
 ** LINK TO WORK:
+link to our deployed app:
+https://harvest-hub-tau.vercel.app/
+
+Repo for the AI recipe bot: By Sean:
+https://github.com/PurpleNurps/React-static
+
+
+OUR SUPABASE details:
+NEXT_PUBLIC_SUPABASE_URL=https://cjvvbpevkjieablenjko.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNqdnZicGV2a2ppZWFibGVuamtvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDE2ODE3MjksImV4cCI6MjAxNzI1NzcyOX0.TTlmXMaEH4IAGxteGROAqG0QYHQKYtgMT6LNtaBG65k
