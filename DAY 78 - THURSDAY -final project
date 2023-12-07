@@ -21,3 +21,16 @@ NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME="ddckdaelz"
 
 NEXT_PUBLIC_SUPABASE_URL=https://cjvvbpevkjieablenjko.supabase.co
 NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNqdnZicGV2a2ppZWFibGVuamtvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDE2ODE3MjksImV4cCI6MjAxNzI1NzcyOX0.TTlmXMaEH4IAGxteGROAqG0QYHQKYtgMT6LNtaBG65k
+
+Message from Tom on Slack:
+Hello Team, I hope the day is going well and you’re remembering to take breaks.
+I’ll drop a link below to a set of example Sprint Demo slides for how to structure the next 2 demos. You will notice:
+A reminder of the problem being solved.
+Sprint Goal (Status, Done/Not-done)
+If you’ve missed the goal, say how much by and what you plan to do very briefly (cut scope etc)
+Repeat the next step for each Epic you’ve worked on this Sprint:
+Overview of the Epic (title, description, status, indicator of progress of underlying User Stories).
+Then cover each User Story (title, description, status, and then demo the work).
+Repeat for each User Story …
+Hopefully, you can see the value of this format. It’s about starting high level and giving a status indicator,  then drilling down. This is the repeated pattern that gives people context then detail.
+Slides: https://docs.google.com/presentation/d/1ph8BpXxrf99l4DlNKdoeN70LFPS7Q_iIABT03WcL0hI/edit?usp=sharing
