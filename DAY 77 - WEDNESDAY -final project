@@ -25,3 +25,20 @@ Use Cloudinary - to store images online as a database.
 WHAT I LEARN TODAY:
 I learned to use two div elements on top of each other. One with the opacity to make it see-through. 
 One with position relative and one with position absolute. 
+CODE FOR ABOVE:
+<Link href="./Calendar">
+          <div
+            className="link-container"
+            style={{
+              position: "relative",
+              backgroundColor: "#b9a48c",
+              color: "#f3ebe4",
+            }}
+          >
+            <img
+              src="/assets/CalendarBackground.png"
+              style={{ width: "16rem", height: "auto", opacity: "0.25" }}
+            ></img>
+            <h1 style={{ position: "absolute" }}>Growing Calendar</h1>
+          </div>
+        </Link>
