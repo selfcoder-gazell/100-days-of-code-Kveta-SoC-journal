@@ -44,4 +44,36 @@ SoC helped in this way:
 ** THOUGHTS:**
 Beneficial talk by one of us ex-boot camper Kendall. 
 
+AFTERNOON: 
+TALK FROM NADEEM my favorite: 
+- have we achieved our sprint goal
+- set expectations for next week today
+- evidence of reflective practice (retrospective not just stand ups), can use 4 L - what we like, do not like, what shall we improve, what shall we do differently)
+- criticize our own progress
+- the ability to criticize our achievements
+- not being able to do that is a problem
+- record the output of that
+- can we see an improvement
+- process-related
+-
+Nadeem offered to check our CV if we wanted to. and give us a piece of advice individually for interviews, 
+INTERVIEW TIPS:
+We should make sure that everyone is equally heard, when was the last mistake made?
+Job is a triangle (me, business company values, technology used in a company).
+Ask shit lots of questions. 
+
+Casper input today:
+Only 1 h1
+Homepage logo looks like a button and is confusing that it’s not a button
+In Calendar labels also look like buttons
+Noise on add form and input fields also looks like a button
+Logo in the header?
+Underscores in some veg names
+How much value does having a bio in the user section?
+The recipe bot is a bit of a gimmick
+Tracking calendar is a nice idea
+The header is not a header - it’s a div
+Spin up a new app to test supabase - divide and conquer
+Chrome dev tools in vs code - run and debug
+
 ** LINK TO WORK:
