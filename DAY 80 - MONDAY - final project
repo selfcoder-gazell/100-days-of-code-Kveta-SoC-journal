@@ -1,13 +1,70 @@
-### DAY 80: DECEMBER 11, MONDAY 11, 2023 ()
+### DAY 80: DECEMBER, MONDAY 11, 2023 ()
 
 ** Today's PROGRESS**:
-
+Today it was only three of us in a team (Patryk, myself, and Jack). The remaining three were at a tech event. 
+Because it was only three of us tackled small issues - mainly the ones that were mentioned by our pseudo-stakeholder Casper. 
+Styling a few buttons, restyling the header, and making the Adding Tips and Tricks page not so busy. 
 
 
 MORNING:
+In the morning we had a visitor - to ask us about our project. 
 
+AFTERNOON:
+We deployed once only today - as not many changes were made. 
 
 ** THOUGHTS:**
 
 
 ** LINK TO WORK:
+LINK from Sean - how to build a calendar using React Calendar Library. 
+https://www.section.io/engineering-education/build-react-calendar-library/
+-----------------------------------
+message from Livi:
+import { createBrowserClient } from "@supabase/ssr";
+const supabase = createBrowserClient(
+    process.env.NEXT_PUBLIC_SUPABASE_URL!,
+    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
+  );
+------------------------------
+message from Sean:
+GitHub Copilot
+Used 1 reference
+To add days to a date in JavaScript, you can use the Date object's setDate method. 
+This method sets the day of the Date object relative to the beginning of the currently set month.
+Here's how you can modify your code to add 2 days to the start date:
+let date = new Date(); // Assuming this is your start date
+let newDate = new Date(date); // Create a new Date object to avoid mutating the original date
+newDate.setDate(date.getDate() + 2); // Add 2 days to the date
+setEvent((curr) => {
+  return [
+    ...curr,
+    {
+      title: data.target[0].value,
+      start: date,
+      allDay: true,
+      display: 'block',
+      backgroundColor: '#F3EBE4',
+      textColor: '#47594E',
+      borderColor: '#F3EBE4',
+      eventOverlap: true
+    },
+    {
+      title: data.target[0].value + "second",
+      start: newDate, // Use the new date here
+      allDay: true,
+      display: 'block',
+      backgroundColor: '#F3EBE4',
+      textColor: '#47594E',
+      borderColor: '#F3EBE4',
+      eventOverlap: true
+    }
+  ];
+});
+In this code, new Date(date) creates a new Date object with the same date as date, 
+and newDate.setDate(date.getDate() + 2) adds 2 days to newDate. 
+This way, you're not mutating the original date object, 
+and newDate is a date 2 days after date.
+------------------------------
+JOB LINKS:
+https://microsoft.getmyfirstjob.co.uk/
+https://pages.amazon.beamery.com/amazonrecruiting/form/aws-experienced-professionals/sign-up 
