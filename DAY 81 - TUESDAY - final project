@@ -1,13 +1,49 @@
 ### DAY 81: DECEMBER 12, TUESDAY 11, 2023 ()
 
 ** Today's PROGRESS**:
-
-
+Today we continued on the calendar, finishing the styling touches.
+Nadeem came to our room in the morning. 
+He gave us advice to polish off our app, do not start new features, till MVP is finished. 
+Write README in the git hub repository. 
+Testing.
 
 MORNING:
 
 
 ** THOUGHTS:**
+My thoughts about this team are not as good vibes as from my previous mid-term project. 
+We have a couple of members of our team who are being left behind. 
+Myself and Jack Yelland. 
+It is our responsibility (as a team) not to leave anyone behind even if they wish to do so. 
 
-
+--------------------------------
 ** LINK TO WORK:
+LINK FROM NADEEM:
+https://github.com/matiassingers/awesome-readme
+--------------------------------------
+https://docs.google.com/document/d/1qYGZd9aY2qACmt48S8X1EwqkyPmPjjDTpzs3kLPv9a0/edit
+Polishing Jobs
+
+Format css
+Add back buttons 
+Change Calendar to calendar
+Septmeber and Febraury
+Remove bio from users
+Add functionality for add tips and tricks
+Check scroll in tips and tricks
+Finish pseudo code
+Remove underlining in title/ make title clickable to scroll to top
+Change my gardening calendar button so it fits
+Adding image to tips and tricks
+Button sizing in settings
+Change Type: any to the appropriate type - maaaybe
+Read me in repo - check link
+Change carrot and hvgv placeholders in the calendar/ maybe add loading skeleton
+Redirect non users
+Trim open branches
+Populate public users table from auth table
+Link login page to homepage
+Remove Underscores in some veg names
+Change Header from a Div to a Header
+
+
