@@ -16,10 +16,13 @@ My thoughts about this team are not as good vibes as from my previous mid-term p
 We have a couple of members of our team who are being left behind. 
 Myself and Jack Yelland. 
 It is our responsibility (as a team) not to leave anyone behind even if they wish to do so. 
-Cliche saying but our team is as strongest as it is weakest link. 
+Cliche saying but our team is as strongest as it's weakest link. 
 
 --------------------------------
 ** LINK TO WORK:
+NEXT.JS WITH REACT TESTING LIBRARY:
+https://www.youtube.com/watch?v=AS79oJ3Fcf0
+
 LINK FROM NADEEM:
 https://github.com/matiassingers/awesome-readme
 --------------------------------------
@@ -47,5 +50,27 @@ Populate public users table from auth table
 Link login page to homepage
 Remove Underscores in some veg names
 Change Header from a Div to a Header
+----------------------------
+NEXT_PUBLIC_SUPABASE_URL=https://cjvvbpevkjieablenjko.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNqdnZicGV2a2ppZWFibGVuamtvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDE2ODE3MjksImV4cCI6MjAxNzI1NzcyOX0.TTlmXMaEH4IAGxteGROAqG0QYHQKYtgMT6LNtaBG65k
+NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME="ddckdaelz"
+-----------------
+this is it Livi- at the moment its very simple:
+async function checkUser() {
+    const {
+      data: { user },
+    } = await supabase.auth.getUser();
+    if (user) {
+      console.log(user, "logged in");
+    } else {
+      console.log("user not logged in");
+    }
+  }
+  checkUser();
+-------------
+deployed App
+  4:51 PM
+https://harvest-hub-tau.vercel.app/
+
 
 
