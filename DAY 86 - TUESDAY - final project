@@ -1,6 +1,7 @@
 ### DAY 86, DECEMBER 19, TUESDAY, 2023 ()
 
 ** Today's PROGRESS**:
+Today we continue to work on our finishing touches (testing, media CSS styling to make it responsive).
 
 
 
@@ -11,3 +12,8 @@ MORNING:
 
 
 ** LINK TO WORK:
+FOUND THIS LINK ABOUT USING PLAYWRIGHT TESTING IN A SIMILAR TYPE OF PROJECT AS OURS:
+Found this blog from someone (not too old from Jan this year so should not be out of date). 
+She is using the same as we (next.js, playwright, vercel) so 
+I thought it might give us some useful insight.
+https://enreina.com/blog/e2e-testing-in-next-js-with-playwright-vercel-and-github-actions-a-guide-with-example/
