@@ -1,13 +1,28 @@
 ### DAY 85, DECEMBER 18 MONDAY, 2023 ()
 
 ** Today's PROGRESS**:
-
-
+Today we had our pseudo-stake-holder at 13:30. We showed him our project and this was his feedback:
+- using the love heart to make tips and tricks as favorite 
+- profile picture in circle change
+- adding tip page - make a slight difference to the design - it is over-crowded
+- Growing Calendar is too overcrowded - styling too cramped up - if someone put 20 items planted in one day
+- unit tests more valuable than an E2E
+- Casper suggested that the buttons be in line not below each other
 
 MORNING:
-
+This morning we decided to work on finishing of pseudo-code for all of our files. 
+Testing using playwright for E2E (end-to-end) testing. 
+Testing using JestTest. 
+Unit testing.
+CSS media queries - to styling for responsiveness. 
 
 ** THOUGHTS:**
+I joined the group doing the E2E to learned more about it. 
 
+
+Today I had my mentor meeting after two weeks of not being able to due to my mentor's illness. 
+We talked about our final project and my C.V. 
+The advice to take away was to do something in our last project which I shall be able to use on my C.V. project details. 
+I am not sure what to do as we have already done/completed most of the features and just doing the finishing touches this week. 
 
 ** LINK TO WORK:
