@@ -1,12 +1,28 @@
 ### DAY 88, DECEMBER 21, THURSDAY, 2023 ()
 
 ** Today's PROGRESS**:
-
-
+Today we deployed for the last time and sent a feedback form to our fellow bootcampers for a review of our App. 
+Unfortunately, we only got two feedbacks so far. 
+We also finished some design issues and media queries to make our app accessible on different types/sizes of devices. 
 
 MORNING:
+Stand up in the morning. 
+
+AFTERNOON:
+We are planning how to tackle the presentation needed for our stakeholders and deciding who is doing/saying what.
+Jack has partially finished our presentation and the link to it is below. Jack also included a script for us to read as we go through the PRESENTATION. 
 
 
 ** THOUGHTS:**
+Our 4 week project is coming to an end which is quite sad. 
 
 ** LINK TO WORK:
+Our DEPLOYED APP: 
+https://harvest-hub-tau.vercel.app/
+(We used, next.js, supabase, vercal for deployment, CSS, HTML).
+
+HOW TO WRITE A GREAT README FOR OUR PROJECT - APP:
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
+
+LINK TO PRESENTATION:
+https://docs.google.com/presentation/d/15LC5XMNM6J91Zpy93-zhX6sY6CcLsEVywTufO4nFJTc/edit?usp=sharing
